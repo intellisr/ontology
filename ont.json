@@ -1,0 +1,4843 @@
+[{
+  "_id": {
+    "$oid": "66534e0b87eff932f4db8b5e"
+  },
+  "question": [
+    "how to create uber account in my phone",
+    "how do i create an uber account",
+    "please help me create an uber account",
+    "i need to create an uber account  please give me some instriuctions"
+  ],
+  "action": "action_2",
+  "steps": [
+    "Create a valid email address",
+    "Get a valid phone number",
+    "Create a password",
+    "Agree to terms and conditions and our privacy notice",
+    "Fill in your first and last name",
+    "Phone number",
+    "Preferred language",
+    "Complete the signup process",
+    "Receive a text SMS to verify your phone number",
+    "Enter payment information (credit card or debit card)",
+    "Confirm account registration via email",
+    "Use the app to request a ride"
+  ],
+  "requirements": [
+    "Valid email address",
+    "Phone number",
+    "Password",
+    "Agreement to terms and conditions",
+    "Agreement to privacy notice",
+    "First and last name",
+    "Preferred language",
+    "Payment information (credit card or debit card)",
+    "Verification of phone number via SMS/text message"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e0c87eff932f4db8b5f"
+  },
+  "question": [
+    "how to delete my uber account",
+    "i need to delete my uber account",
+    "please give me steps to delete my uber account",
+    "i need to delete my uber account",
+    "how do i delete my uber account",
+    "where can i go to remove my uber account",
+    "can you help me figure out how to delete my uber account",
+    "i want to get rid of my uber account  how do i do that",
+    "how can i permanently erase my uber account",
+    "is there a way to cancel or deactivate my uber account",
+    "what s the process for getting rid of my uber account",
+    "can you guide me through the steps to delete my uber account",
+    "how do i ditch my uber account for good",
+    "where s the option to nix my uber account",
+    "can you show me how to wipe out my uber account",
+    "i m ready to say goodbye to uber  how do i delete my account",
+    "how can i cut ties with uber and delete my account",
+    "want to pull the plug on my uber account  how do i do that",
+    "is there a way to get rid of my uber account entirely",
+    "how do i make a clean break from uber and delete my account"
+  ],
+  "action": "action_6",
+  "steps": [
+    "Delete your account using the app:",
+    "Go to Account",
+    "Then Settings",
+    "Select Privacy",
+    "Scroll down and tap Account Deletion",
+    "Follow the remaining steps in the app to complete the process",
+    "Delete your account using the web:",
+    "Visit myprivacy.uber.com",
+    "Sign in",
+    "You'll be guided through the steps to delete your account"
+  ],
+  "requirements": [
+    "Phone number attached to account",
+    "Ability to add phone number in account settings (if unable, refer to i can't update my phone number or email help page)",
+    "Uber Eats or Driver account using same account details (will also be deleted when request is complete)"
+  ],
+  "entities": [
+    "account",
+    "phone number",
+    "email",
+    "Uber Eats",
+    "driver account",
+    "app",
+    "web",
+    "My Privacy Uber"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e0d87eff932f4db8b60"
+  },
+  "question": [
+    "can i schedule a ride early",
+    "i need to schedule a ride in advanced can i do that from the uber app"
+  ],
+  "action": "action_9",
+  "steps": [
+    "Tap the car icon with the clock located just to the right of the where to bar",
+    "Select a date",
+    "Set your 10 minute pickup window of time",
+    "The pickup location will automatically set to your current location",
+    "Tap 'Current Location' to edit the pickup location (if needed)",
+    "Set your destination",
+    "Review your fare estimate and tap 'Schedule'"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e0e87eff932f4db8b61"
+  },
+  "question": [
+    "i am unable to signup to my account  it says my number is already used",
+    "i cant create a new account due to my number is already registered",
+    "i cannot sign up for a new uber account  it says my phone or email is already in use",
+    "i m having trouble signing up for a new uber account  it keeps saying my phone or email is already in use  what should i do",
+    "i can t create a new uber account because it says my phone or email is already registered  how do i fix this",
+    "why am i getting an error message saying my phone or email is already in use when i try to sign up for a new uber account",
+    "i m unable to register for a new uber account because it s saying my phone number or email is already associated with an account  how can i resolve this issue",
+    "what should i do if uber won t let me sign up with my phone number or email because it s already in use",
+    "how can i sign up for a new uber account if it s saying my phone or email is already registered with another account",
+    "is there a way to create a new uber account if my phone number or email is already linked to an existing account"
+  ],
+  "action": "action_535",
+  "steps": [
+    "Fill out the form below",
+    "Check if you've already registered for an Uber account",
+    "Report an issue with your email ID or phone number",
+    "Provide proof of mobile number ownership",
+    "Follow the procedure to get the mobile number from your settings",
+    "Enter the following details to proceed further:",
+    "- Requested phone number or email",
+    "- Share additional details",
+    "Upload a maximum of 1 error screenshot",
+    "Enter an email address where our support team can contact you (max 1)"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    "phone number",
+    "email id",
+    "mobile number",
+    "number"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e0e87eff932f4db8b62"
+  },
+  "question": [
+    "how can i cancel my trip",
+    "i want to cancel my trip  please help me"
+  ],
+  "action": "action_13",
+  "steps": [
+    "Tap the white info bar at the bottom of your screen",
+    "Tap 'Cancel Trip'",
+    "You'll be asked to confirm; tap 'Yes' or 'No'",
+    "Swipe up from the bottom of your screen",
+    "Tap 'Cancel', then confirm"
+  ],
+  "requirements": [
+    "You can cancel a trip at any time",
+    "Before or after a driver has accepted your trip request",
+    "If you cancel when the driver is less than 5 minutes away from picking you up, you will be charged a cancellation fee",
+    "To cancel before a driver accepts your trip request:",
+    null
+  ],
+  "entities": [
+    "trip",
+    "cancel",
+    "driver",
+    "pick up",
+    "fee",
+    "screen",
+    "info bar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e0f87eff932f4db8b63"
+  },
+  "question": [
+    "am i charged for a cancelling trip",
+    "is it possible to cancel the charges for a ride",
+    "can i get a refund for a ride i was charged for",
+    "how do i cancel the fees for a trip",
+    "is there a way to reverse the charges for a ride",
+    "am i charged for cancelling a trip",
+    "is there a charge for cancelling a trip on uber",
+    "will i incur a fee for cancelling a trip with uber",
+    "do i have to pay if i cancel a trip on uber",
+    "is there a cost associated with cancelling a ride on uber",
+    "am i charged any fees for cancelling my trip reservation with uber",
+    "will i be billed for cancelling my uber trip"
+  ],
+  "action": "action_14",
+  "steps": [
+    "Open the Uber app",
+    "Cancel the trip at any time",
+    "Be aware of potential cancellation fees if you cancel after being re-matched with your driver",
+    "Check your account for billing updates"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    "Uber app",
+    "trip",
+    "cancellation fee",
+    "driver",
+    "ride requests",
+    "pickup location"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e1187eff932f4db8b64"
+  },
+  "question": [
+    "can i download and install uber app in my ios phone",
+    "is it possible to download and install the uber app on my iphone",
+    "can i get the uber app on my ios device",
+    "how do i download and install the uber app on my iphone",
+    "is the uber app available for download on ios phones"
+  ],
+  "action": "action_19",
+  "steps": [
+    "Check if the Uber app is available for download on iOS phones",
+    "Head to the App Store (not Google Play Store)",
+    null
+  ],
+  "requirements": [
+    "iOS devices",
+    "iOS 15.0 or higher"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e1287eff932f4db8b65"
+  },
+  "question": [
+    "i cannot add or delete payment methods in uber app  pls help",
+    "i m having trouble updating my payment methods in the uber app  what should i do",
+    "why can t i add or remove payment options in my uber app",
+    "the uber app isn t letting me change my payment methods  how can i fix this",
+    "i m unable to modify my payment details in uber  what steps should i take"
+  ],
+  "action": "action_25",
+  "steps": [
+    "Check for any error messages in your app",
+    "If you see an error message, update your payment method",
+    "Request failed? Update or add a new payment method in the 'Payment' section of the app menu",
+    "Card declined? Check the following reasons:",
+    "- Incorrect card number entered",
+    "- Credit or debit card has expired",
+    "- Insufficient funds in the account",
+    "If your payment method was declined due to one of the above reasons, consider contacting your bank if:",
+    "- You're traveling abroad and haven't authorized international transactions",
+    "- The bank rejected the charge based on fraud",
+    "- You've exceeded the withdrawal limit on your account",
+    "- You've reported your card as lost or stolen"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    "error messages",
+    "payment method",
+    "requesting a ride",
+    "payment section of the app menu",
+    "payment settings",
+    "billing settings",
+    "card number entered",
+    "credit or debit card",
+    "insufficient funds in the account",
+    "bank",
+    "international transactions",
+    "withdrawal limit on your account",
+    "reporting your card as lost or stolen"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e1487eff932f4db8b66"
+  },
+  "question": [
+    "my driver was very rude and unprofessional  how can i report this and ensure it doesn t happen again",
+    "i had a really bad experience with my driver s attitude  how can i make sure it gets addressed and doesn t repeat",
+    "the way my driver behaved was completely unacceptable  what steps can i take to report it and prevent it from occurring in the future",
+    "my driver was incredibly rude  and i don t want to encounter that again  what s the best way to report this behavior and ensure it doesn t happen with future rides",
+    "the behavior of the driver i had was totally unprofessional  how can i report this and guarantee it won t happen again",
+    "i encountered a really disrespectful attitude from my driver  how should i go about reporting this and ensuring it s dealt with to prevent similar incidents"
+  ],
+  "action": "action_34",
+  "steps": [
+    "Reach out to Uber on the number 94 11 79 66 000 during the trip or within 30 minutes of your trip getting completed",
+    "Use this page to report a safety incident with a driver that has caused you any harm or material loss",
+    "Choose one or more of the following behaviors to describe the incident:",
+    "1. My driver was rude",
+    "2. Use this link if your driver's behaviour was unprofessional or rude (i.e. feedback about your trip, review my cancellation fee)",
+    "3. Use this link if you were incorrectly charged for a trip you did not take",
+    "4. Use this link if your fare was too high",
+    "5. My driver took a poor route or had issues with your pick and drop off",
+    "6. I was discriminated against by my driver"
+  ],
+  "requirements": [
+    "The issue is related to safety, aggressive, harassing, or unsafe behaviour",
+    "You have reached out to Uber on the phone number 94 11 79 66 000 during the trip or within 30 minutes of your trip getting completed",
+    "You are reporting a safety incident with a driver that has caused you any harm or material loss"
+  ],
+  "entities": [
+    "Uber",
+    "Platform",
+    "Safety",
+    "Driver",
+    "Trip",
+    "Number (94 11 79 66 000)",
+    "Page",
+    "Incident",
+    "Material loss",
+    "Behaviours",
+    "Cancellation fee",
+    "Fare",
+    "Route",
+    "Pick and drop off",
+    "Discrimination"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e1587eff932f4db8b67"
+  },
+  "question": [
+    "i had a great experience with my driver today  how can i leave positive feedback or a tip"
+  ],
+  "action": "action_40",
+  "steps": [
+    "Open the app",
+    "On the main screen, tap the white screen to expand trip details",
+    "Tap 'Rate or Tip' next to 'How's your ride going?'",
+    "Select the number of stars (1-5) you want to rate your driver",
+    "Add a tip if you want and select 'Save'",
+    "To tip a driver, you'll see the option to give them a compliment",
+    "Most riders provide a 5-star rating unless there was a specific issue with the trip",
+    "If you rate the driver fewer than 5 stars, you'll be prompted to provide specific feedback about the trip or driver from a list of common issues",
+    "A 1-star rating typically means there was a serious problem with a driver (e.g. app issues, inconvenient pool matches aren't the driver's fault)",
+    "You can rate a driver within 30 days of a trip",
+    "The driver will never see the rating you give"
+  ],
+  "requirements": [
+    "Have taken a trip",
+    "Be asked to rate your driver at the end of the trip (either in-app or via emailed receipt)",
+    "Have access to the app on the main screen and tap the white screen to expand trip details",
+    "Tap 'Rate or Tip' next to 'How's your ride going?'",
+    "Select the number of stars (1-5) you want to rate your driver",
+    "Optional: Add a tip if you want to and select 'Save'",
+    "Have taken a trip within the past 30 days"
+  ],
+  "entities": [
+    "ratings",
+    "app",
+    "drivers",
+    "tip",
+    "receipt",
+    "stars",
+    "save"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e1687eff932f4db8b68"
+  },
+  "question": [
+    "how can i show my appreciation for the excellent service provided by my driver today",
+    "what s the best way to give positive feedback or a tip to my driver after such a pleasant ride",
+    "i want to express my gratitude to my driver for the fantastic experience  how can i do that effectively",
+    "what s the proper way to leave a tip or leave positive feedback for my driver who went above and beyond today",
+    "i m really impressed with my driver s service today  how should i go about leaving feedback or tipping to show my appreciation",
+    "what s the protocol for leaving a tip or expressing satisfaction with my driver s service today"
+  ],
+  "action": "action_38",
+  "steps": [
+    "Open the app",
+    "On the main screen, tap the white screen to expand trip details",
+    "Tap 'Rate or Tip' next to 'How's your ride going?'",
+    "Select the number of stars (1-5) you want to rate your driver",
+    "Add a tip if you want and select 'Save'",
+    null
+  ],
+  "requirements": [
+    "1. Open the app",
+    "2. On the main screen, tap the white screen to expand trip details",
+    "3. Tap 'Rate or Tip' next to 'How's your ride going'",
+    "4. Select the number of stars (1-5) you want to rate your driver",
+    "5. Add a tip if you want and select 'Save'"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e1787eff932f4db8b69"
+  },
+  "question": [
+    "i received a promo code that isn t working  how can i apply it to my next ride",
+    "i ve got this promo code  but it s not working when i try to use it for my next ride  any tips on how to apply it correctly",
+    "i m having trouble using the promo code i received for my upcoming ride  can you help me figure out how to apply it",
+    "hey  i ve got a promo code for my next ride  but it s not going through  any idea what i might be doing wrong",
+    "the promo code i have isn t working for my next ride  can you walk me through the steps to apply it",
+    "i m trying to use a promo code for my next ride  but it s not being accepted  any advice on how to get it to work",
+    "i ve entered a promo code for my upcoming ride  but it s not getting applied  can you assist me in making sure it goes through",
+    "my promo code didn t work  pls help me",
+    "why didn t my promo code work  can you help me",
+    "can you assist me with my promo code that didn t work",
+    "how do i fix a promo code that isn t working",
+    "my promo code didn t apply  what should i do",
+    "why was my promo code rejected  can you help",
+    "what can i do if my promo code didn t work",
+    "can you help me troubleshoot my promo code issue",
+    "how do i resolve a promo code that failed to apply"
+  ],
+  "action": "action_170",
+  "steps": [
+    "Enter the promo code before or during the trip",
+    "Use the promo before the expiration date if applicable",
+    "Use the promo in a qualifying area if applicable"
+  ],
+  "requirements": [
+    "Enter the promo code before or during the trip",
+    "Use the promo before the expiration date if applicable",
+    "Use the promo in a qualifying area if applicable"
+  ],
+  "entities": [
+    "promo code",
+    "trip",
+    "expiration date",
+    "qualifying area",
+    "Uber app",
+    "payment account",
+    "wallet section"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e1987eff932f4db8b6a"
+  },
+  "question": [
+    "hey  can you tell me how i can use my uber credits to cover my ride expenses",
+    "excuse me  could you explain the process of utilizing uber credits for paying for my rides",
+    "hey  i m curious  what s the method for applying my uber credits to pay for my rides",
+    "hi there  do you mind sharing how i go about using my uber credits as payment for my trips",
+    "hey  i wanted to ask  how do i use the uber credits i have to offset the cost of my rides",
+    "hello  could you guide me on the steps for using the uber credits i ve got to pay for my rides",
+    "how can i use uber cash to pay for rides",
+    "how do i use uber cash to pay for rides",
+    "can i use uber cash as payment for rides",
+    "i want to pay for rides using uber cash  how can i do that",
+    "is there a specific way to use uber cash to pay for my uber rides",
+    "can you show me how to apply uber cash as the payment method for my rides",
+    "how do i set up uber cash as my preferred payment method for rides"
+  ],
+  "action": "action_459",
+  "steps": [
+    "Check if you have credits on your account",
+    "If you do, they will automatically apply to your next trip (save them for another time)",
+    "To save your credits for another time: change your payment method before or during your ride"
+  ],
+  "requirements": null,
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e1b87eff932f4db8b6b"
+  },
+  "question": [
+    "where can i view my credits",
+    "hi  i was wondering  where on the app can i see my uber credits",
+    "how can i review cancellation fee for my rides",
+    "how do i check the cancellation fee for my rides",
+    "how can i see the cancellation fee for each of my rides",
+    "where do i go to review the cancellation fee for my past rides",
+    "can you show me where to view my uber credits in the app",
+    "where s the section for viewing my uber credits in the app",
+    "is there a specific tab or menu where i can see my uber credits in the app"
+  ],
+  "action": "action_462",
+  "steps": [
+    "Select 'Payment' from the menu",
+    "Your credit amount is displayed in the currency the credit was issued in",
+    "Note that Uber credit cannot be transferred from one currency into another",
+    "Uber credit will automatically apply by default to your next trip",
+    "Before or during a trip, select your preferred payment method and toggle your Uber credit on or off",
+    "When a trip ends, your selected payment method is charged (if Uber credit is toggled off, your default payment account is charged the full fare)",
+    "If you have a free ride on your account, this will automatically be your next trip (free rides cannot be toggled off)"
+  ],
+  "requirements": [
+    "payment",
+    "having an Uber credit balance"
+  ],
+  "entities": [
+    "payment",
+    "currency",
+    "credit"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e1c87eff932f4db8b6c"
+  },
+  "question": [
+    "hey there  where exactly can i find my uber credits to know how much i have",
+    "hey  do you know where i should look to find my uber credits",
+    "hi  could you let me know where in the uber app i can view my available credits",
+    "hey  i m trying to find my uber credits  any idea where i should be looking",
+    "where can i find the details of the cancellation fee for my rides",
+    "is there a way for me to review the cancellation fee charged for my rides",
+    "can i check the cancellation fee for my rides somewhere in the app",
+    "where can i view my uber credits in the app",
+    "where do i find my uber credits in the app",
+    "how can i check my uber credits within the app",
+    "i m not sure where to look for my uber credits  can you help",
+    "what is uber credits",
+    "can you guide me on how to access my uber credits in the app",
+    "how do i locate my uber credits within the app interface"
+  ],
+  "action": "action_82",
+  "steps": [
+    "Select 'Payment' from the menu",
+    "Your credit amount is displayed in the currency the credit was issued in",
+    "Note that Uber Credit cannot be transferred from one currency into another",
+    "Uber Credit will automatically apply by default to your next trip",
+    "Before or during a trip, select your preferred payment method",
+    "Toggle your Uber Credit on or off as needed",
+    "When a trip ends, your selected payment method is charged (unless Uber Credit is toggled off)",
+    "If Uber Credit is toggled off, the full fare is charged to your default payment account",
+    "If Uber Credit is toggled on but less than your trip fare, the remainder of the fare is charged to your payment account",
+    "If you have a free ride on your account, this will automatically be your next trip (free rides cannot be toggled off)"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e1d87eff932f4db8b6d"
+  },
+  "question": [
+    "how are fares calculated",
+    "can you explain how uber calculates its fares",
+    "what factors does uber consider when determining the cost of a ride",
+    "how does uber come up with the price for each trip",
+    "could you break down the process uber uses to figure out fares",
+    "what goes into the calculation of uber s pricing",
+    "can you clarify the method uber uses to determine how much a ride will cost"
+  ],
+  "action": "action_62",
+  "steps": [
+    "Determine whether trip fare is calculated upfront or immediately after the ride ends",
+    "Check if upfront pricing is used, which includes:",
+    "- Base rate",
+    "- Rates for estimated time and distance of the route",
+    "- Current demand for rides in the area",
+    "- Booking fee",
+    "- Any applicable surcharges, fees, and tolls",
+    "Request a ride and agree to be charged the upfront fare",
+    "If an upfront fare is not honored, charge the minimum fare or a fare based on measured time and distance for the trip",
+    "Include base fare, booking fee, surcharges, tolls, and other relevant factors in the fare calculation",
+    "Provide a receipt for trip fares",
+    "If fare is different than the upfront fare, explain why on the receipt",
+    "In cities that do not provide upfront fares, charge:",
+    "- Minimum fare",
+    "- Fare based on time and distance for the trip's route",
+    "Include base fare, booking fee, surcharges, tolls, and other relevant factors in the fare calculation",
+    "Fares may vary by location, vehicle option selected, and other factors"
+  ],
+  "requirements": [
+    "Knowing the exact cost of your trip before requesting",
+    "Requesting a ride",
+    "Agreeing to be charged the upfront fare when the trip ends",
+    "Not traveling to a different destination",
+    "Not making extra stops along the route",
+    "The trip not taking much longer than expected"
+  ],
+  "entities": [
+    "Uber",
+    "fare",
+    "city",
+    "trip",
+    "route",
+    "demand",
+    "booking fee",
+    "surcharge",
+    "toll",
+    "time",
+    "distance"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e1f87eff932f4db8b6e"
+  },
+  "question": [
+    "how do i get a copy of this trip s receipt",
+    "how can i obtain a copy of the receipt for this trip",
+    "where do i go to get a copy of the receipt for this trip",
+    "is there a way for me to access the receipt for this trip",
+    "how do i go about getting a copy of the receipt for this trip",
+    "is it possible to retrieve the receipt for this trip",
+    "where can i find the receipt for this trip"
+  ],
+  "action": "action_69",
+  "steps": [
+    "Check the spam or junk folder of your email address",
+    "Review your email address by selecting settings from your app menu and tap your email address to update it",
+    "Select 'Your trips' from the app menu",
+    "Select a past trip",
+    "Review the trip's route, pickup location and final destination",
+    "Tap 'Receipt' to resend a receipt email for trips with an economy vehicle option",
+    "Sign in to riders.uber.com/trips",
+    "Select 'My trips' from the menu",
+    "Select the trip and click the 'Resend' button"
+  ],
+  "requirements": [
+    "You need an account with your email address linked",
+    "Your email address should be correct and not marked as spam or junk",
+    "Your email address needs to be updated in settings if incorrect",
+    "You should have taken at least one trip on your account",
+    "The trip you want the receipt for should be selected from 'your trips'",
+    "Sign in to riders.uber.com with your account credentials"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e2187eff932f4db8b6f"
+  },
+  "question": [
+    "why did i receive a notification for a ride i didn t request",
+    "what could be the reason behind receiving a notification for a ride i didn t book",
+    "why am i getting notifications for rides i haven t booked",
+    "what might have caused me to receive a notification for a ride i didn t initiate",
+    "why am i being notified about a ride that i didn t schedule"
+  ],
+  "action": "action_77",
+  "steps": [
+    "Check if you received a text message that you have a ride with Uber on the way",
+    "Follow the instructions in the text message to view your pickup details",
+    "Determine the type of ride requested for you: (1) Uber for Business organization, (2) Public Transit organizations, or (3) Friend/Family member",
+    "If an Uber for Business organization requested a ride, check if you received a text message, automated call, or app notification",
+    "If Public Transit organizations booked the ride, use the Uber app to view real-time transit information, prices, routes, and schedules provided by a third party (note: accuracy not guaranteed by Uber)",
+    "If a Friend/Family member requested the ride, check if you have an Uber account and receive an app notification with driver and vehicle details, or if you don't have an account, receive instructions for your trip along with driver and vehicle information"
+  ],
+  "requirements": [
+    "You received a text message",
+    "Someone scheduled a ride for you",
+    "Your mobile phone number is registered with Uber",
+    "You have an Uber account (optional)",
+    "The rider who scheduled the ride has your correct mobile phone number and/or landline phone number"
+  ],
+  "entities": [
+    "ride",
+    "Uber",
+    "text message",
+    "pickup details",
+    "trip",
+    "business organization",
+    "public transit organizations",
+    "friends",
+    "family",
+    "mobile phone",
+    "landline phone number",
+    "Uber app notification",
+    "shuttle",
+    "UberX",
+    "Uber Pool",
+    "transit information",
+    "prices",
+    "routes",
+    "schedules"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e2487eff932f4db8b70"
+  },
+  "question": [
+    "someone else took my trip",
+    "why was someone else able to take my trip",
+    "how come someone else ended up taking my trip",
+    "why did someone else take this trip instead of me",
+    "what happened that allowed someone else to take this trip",
+    "why was this trip taken by someone other than myself",
+    "what caused someone else to take this trip"
+  ],
+  "action": "action_87",
+  "steps": [
+    "Check with friends or family members who have access to your Uber account",
+    "Check with friends or family members who have access to the payment method",
+    "Go back in your trip history and select the trip in question",
+    "Under the trip, select 'Review my cancellation fee'",
+    "Let us know on this page before contacting us"
+  ],
+  "requirements": [
+    "Someone else took the trip you requested",
+    "You were charged for the trip",
+    "Check with friends or family members who have access to your Uber account or the payment method",
+    "Believe you were incorrectly charged a cancellation fee",
+    "Go back in your trip history and select the trip in question",
+    "Under the trip, select 'Review my cancellation fee'"
+  ],
+  "entities": [
+    "someone else",
+    "trip requested",
+    "payment method",
+    "friends or family members",
+    "Uber account"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e2587eff932f4db8b71"
+  },
+  "question": [
+    "i paid extra cash for my trip",
+    "why did i have to pay extra cash for my trip",
+    "what was the reason for the additional payment in cash for my trip",
+    "how come i had to pay extra money in cash for my trip",
+    "what caused me to pay more than the expected amount for my trip in cash",
+    "why was there an extra cash payment required for my trip",
+    "what led to me having to provide additional cash for my trip",
+    "i paid extra cash on a non cash payment method  how do i fix the issue",
+    "what steps should i take if i accidentally paid extra cash using a non cash payment method",
+    "how can i correct the situation where i paid more cash than required while using a non cash payment option",
+    "what should i do if i mistakenly paid additional cash with a non cash payment method",
+    "is there a way to rectify the issue of overpaying in cash while intending to use a non cash payment method",
+    "how do i address the problem of paying extra money when i meant to use a non cash payment option",
+    "what actions can i take to resolve the issue of accidentally paying extra cash while using a non cash payment method"
+  ],
+  "action": "action_97",
+  "steps": [
+    "Click on 'My fare was higher than the initial estimate' if the driver is asking for the same amount as mentioned on your app",
+    "Check if you had an outstanding balance or a charged cancellation fee from a previous trip that was not paid in full when the trip was completed",
+    "If this was a cash trip, ensure you check your app for the final trip fare that is displayed at the end of the trip",
+    "Verify that the driver should collect only the amount displayed on your app if they are asking for cash more than the displayed amount",
+    "Use the form below to let us know if the driver asked for extra cash",
+    "If this was a non-cash trip, do not pay extra cash (it's not supposed to happen)",
+    "If you were asked for cash during or after the trip and it wasn't a non-cash trip, please share more details with us"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e2787eff932f4db8b72"
+  },
+  "question": [
+    "how was my uber fare is calculated",
+    "what factors were considered in calculating my uber fare",
+    "what went into the calculation of my uber fare",
+    "can you explain the process of how my uber fare was calculated",
+    "how does uber determine the cost of my trip",
+    "what criteria does uber use to calculate my fare",
+    "can i have a price break up of my trip",
+    "i have pending or a duplicate charge for my previous trip  what is that",
+    "why do i have pending or duplicate charges for my previous trip",
+    "what could be the reason for pending or duplicate charges on my previous trip",
+    "how come there are pending or duplicate charges for my previous trip",
+    "what might have caused the pending or duplicate charges to appear for my previous trip",
+    "why am i seeing pending or duplicate charges for a trip i already took",
+    "what actions should i take regarding the pending or duplicate charges for my previous trip",
+    "how do i address the issue of pending or duplicate charges for my previous trip",
+    "is there a process to resolve the pending or duplicate charges for my previous trip"
+  ],
+  "action": "action_105",
+  "steps": [
+    "Go back to the help section",
+    "Select 'Help with a trip'",
+    "Select the trip of your choice",
+    "Tap on 'I paid extra cash' or 'To share details of the trip'"
+  ],
+  "requirements": [
+    "Your previous Uber app shows a pending charge",
+    "You paid cash for your non-cash trip"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e2a87eff932f4db8b73"
+  },
+  "question": [
+    "my final fare was higher than the initial estimate",
+    "why was my final fare higher than the initial estimate",
+    "what caused my final fare to exceed the initial estimate",
+    "how come my final fare ended up being more than the initial estimate",
+    "what led to the increase in my final fare compared to the initial estimate",
+    "why did i end up paying more than the initial estimate for my fare"
+  ],
+  "action": "action_108b",
+  "steps": [
+    "Check if you have an outstanding balance",
+    "Check if there's a charged cancellation fee from a previous trip that was not paid in full when the trip was completed",
+    "Verify if the pending charge is added to your account, payable on your next trip",
+    "If it was a cash trip, check your app for the final trip fare displayed at the end of the trip",
+    "Ensure the Uber app shows the correct amount a driver should collect",
+    "Report if a driver is asking for extra cash more than the amount displayed on your app",
+    "Check if you're being asked to pay extra cash in case it was a non-cash trip"
+  ],
+  "requirements": [
+    "Check if you had an outstanding balance",
+    "Verify there's no charged cancellation fee from a previous trip that wasn't paid in full",
+    "If it was a cash trip, check your app for the final trip fare displayed at the end of the trip",
+    "Ensure the driver isn't asking for more than the amount displayed on your app (if you're paying with cash)",
+    "Report any issues to Uber using the form below if a driver is asking for extra cash"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e2b87eff932f4db8b74"
+  },
+  "question": [
+    "how do i edit the tip amount in uber app",
+    "where do i go in the uber app to adjust the tip amount for a ride",
+    "how can i change the tip i left for a previous uber ride",
+    "is there a way to edit the tip amount after completing a ride with uber",
+    "can i adjust the tip for a past uber ride i took",
+    "where in the uber app can i modify the tip amount for a completed ride",
+    "how do i go about changing the tip i gave for a ride i ve already taken with uber",
+    "is it possible to change the tip amount for a completed uber trip",
+    "how can i adjust the tip for a ride i ve already taken using the uber app"
+  ],
+  "action": "action_121",
+  "steps": [
+    "Open the Uber app",
+    "Tap the white screen to expand the trip details",
+    "Select 'Edit' next to the rating",
+    "Select or enter the amount you want to tip and tap 'Save'",
+    "To add to a tip up to 90 days after the trip: Open the Uber app, Tap the menu icon and then 'Your Trips', Select the trip you want to increase the tip amount for, Tap 'Add to your tip', Enter the additional amount you want to tip and tap 'Set tip'"
+  ],
+  "requirements": [
+    "You must have tipped the driver during the trip",
+    "The trip must not have ended yet",
+    "It's been less than 90 days since the trip (depending on your location)",
+    "Open the Uber app",
+    "Tap the white screen to expand trip details",
+    "Select 'Edit' next to the rating",
+    "Enter the amount you want to tip and tap 'Save'",
+    "For tips added up to 90 days after the trip, open the Uber app",
+    "Tap the menu icon and then 'Your Trips'",
+    "Select the trip you want to increase the tip amount for",
+    "Tap 'Add to your tip'",
+    "Enter the additional amount you want to tip and tap 'Set Tip'"
+  ],
+  "entities": [
+    "Uber App",
+    "Trip",
+    "Tip",
+    "Edit",
+    "Rating",
+    "Save",
+    "Menu Icon",
+    "Your Trips"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e2e87eff932f4db8b75"
+  },
+  "question": [
+    "i can t clear an outstanding payment",
+    "why am i unable to clear an outstanding payment",
+    "what could be causing the issue with clearing my outstanding payment",
+    "how come i can t seem to clear my outstanding payment",
+    "what s preventing me from clearing the outstanding payment",
+    "why am i having trouble resolving the outstanding payment",
+    "what might be causing the difficulty in clearing the outstanding payment",
+    "how do i resolve the issue with the outstanding payment",
+    "what steps should i take to clear the outstanding payment"
+  ],
+  "action": "action_128",
+  "steps": [
+    "Pay for outstanding trip request via cash",
+    "Cannot split fare with another rider",
+    "Cannot change to digital payment method"
+  ],
+  "requirements": [
+    "No outstanding payments for previous trips",
+    "Insufficient balance in wallet",
+    "Trip fare was not billed to the correct payment method (e.g. incorrect credit card or wrong profile)",
+    "Expenses code needs to be changed"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e3087eff932f4db8b76"
+  },
+  "question": [
+    "how to switch payment method for a trip",
+    "can we switch payment method for a trip",
+    "how do i change the payment method for a trip",
+    "where can i switch the payment method for a specific trip",
+    "is there a way to update the payment method for a trip after it s been requested",
+    "can i change the payment method for a trip that s already booked",
+    "how can i switch the payment method for a trip before it starts"
+  ],
+  "action": "action_132",
+  "steps": [
+    "Check and select your preferred payment method or profile before requesting a trip",
+    "If your trip fare was billed to the wrong payment method, please let us know",
+    "We can correct it to the right payment method in your account",
+    "Note: We can only switch your payment to another payment wallet",
+    "Check for outstanding payments for previous trips and resolve before switching",
+    "Verify if you want to switch payment to another credit or debit card (not allowed)",
+    "Verify if you want to switch from cash to non-cash payment mode (not allowed)",
+    "Verify that your wallet has sufficient balance to switch your payment method",
+    "Reach out to Uber for Business admin if you need to change your expense code"
+  ],
+  "requirements": [
+    "Outstanding payment for previous trip",
+    "Want to switch payment to another credit or debit card",
+    "Want to switch payment from cash to non-cash payment mode",
+    "Wallet has insufficient balance"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e3587eff932f4db8b77"
+  },
+  "question": [
+    "how do i get a copy of this trip s tax invoice",
+    "how do i get a copy of this trip s tax invoice",
+    "where can i find the tax invoice for this trip in uber app",
+    "how can i access the tax invoice for this trip",
+    "is there a way to get the tax invoice for this trip",
+    "how do i obtain the tax invoice for this trip",
+    "where do i go to download the tax invoice for this trip",
+    "can i get a copy of the tax invoice for this trip in uber app",
+    "how do i retrieve the tax invoice for this trip"
+  ],
+  "action": "action_155",
+  "steps": [
+    "Login to riders.uber.com",
+    "Go to My Trips",
+    "Click on the trip you want the invoice for",
+    "Select View Detail",
+    "Select Download Invoice",
+    "Top right corner"
+  ],
+  "requirements": [
+    "login to riders.uber.com",
+    "go to my trips",
+    "click on the trip you want the invoice for",
+    "select view detail",
+    "select download invoice"
+  ],
+  "entities": [
+    "Riders",
+    "Uber",
+    "com",
+    "trips",
+    "my trips",
+    "trip",
+    "invoice"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e3987eff932f4db8b78"
+  },
+  "question": [
+    "i lost my phone in uber  what can i do",
+    "what should i do if i lost my phone in an uber",
+    "how can i report my lost phone in an uber",
+    "what steps should i take if i left my phone in an uber",
+    "who should i contact if my phone was lost in an uber",
+    "how do i get my phone back if i left it in an uber",
+    "what actions can i take to recover my phone from an uber",
+    "is there a way to retrieve my phone if i lost it in an uber",
+    "how can i get assistance with a phone i lost in an uber"
+  ],
+  "action": "action_180",
+  "steps": [
+    "Call your driver by logging in to Help.Uber.com",
+    "If unable to login, share the following details with Uber:",
+    "- Uber registered name",
+    "- Alternate contact number",
+    "- Share your number with the driver",
+    "- Email address where our support team can contact you"
+  ],
+  "requirements": [
+    "Uber registered name",
+    "Alternate contact number",
+    "Email address where our support team can contact you"
+  ],
+  "entities": [
+    "Uber",
+    "driver",
+    "Help.Uber.com",
+    "email address",
+    "support team"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e3b87eff932f4db8b79"
+  },
+  "question": [
+    "i had an issue with my package delivery  can you help me",
+    "i had a problem with my package delivery  can you help",
+    "can you help me with an issue i had with my package delivery",
+    "how can i get help with my package delivery problem",
+    "who do i contact if there s a problem with my package delivery",
+    "what should i do about an issue with my package delivery",
+    "can you help me fix a problem with my package delivery",
+    "how do i get help for a package delivery issue",
+    "what can i do if i had trouble with my package delivery",
+    "i ran into an issue with my package delivery  can you help",
+    "my package delivery didn t go as planned  can you assist",
+    "what can i do if there s a problem with my package delivery",
+    "got a problem with my package delivery  any way you can help",
+    "can you sort out an issue i had with my package delivery"
+  ],
+  "action": "action_192",
+  "steps": [
+    "Check if your package hasn't been delivered yet",
+    "Call or message the driver in the app if it's not delivered",
+    "If the package was too heavy, large for their vehicle, not packaged securely, or contained a prohibited item, cancel the request and coordinate a return with the driver",
+    "Update the drop off address on the app to help the driver deliver the package back to you if your trip is still in progress",
+    "Check with security at the residence if your package has been delivered there",
+    null
+  ],
+  "requirements": [
+    "Your package hasn't been delivered yet",
+    "You need to call or message the driver in the app if there's an issue",
+    "The driver is free to cancel your request for any reason, including if the package was too heavy, too large, not packaged securely, or contained a prohibited item",
+    "The person receiving the package wasn't available (if applicable)",
+    "You need to update the drop off address on the app if your trip is still in progress and you want the driver to deliver the package back to you",
+    null
+  ],
+  "entities": [
+    "package",
+    "driver",
+    "app",
+    "vehicle",
+    "item",
+    "person",
+    "customer",
+    "security",
+    "residence"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e3f87eff932f4db8b7a"
+  },
+  "question": [
+    "i can t clear a pending amount  what should i do",
+    "how do i resolve a pending amount that i can t clear",
+    "can you help me with a pending amount i can t settle",
+    "what can i do if i can t clear a pending amount",
+    "why am i unable to clear this pending amount",
+    "any idea why i can t settle a pending amount",
+    "how can i fix the issue with my pending amount",
+    "who can help me with a pending amount i can t clear"
+  ],
+  "action": "action_199",
+  "steps": [
+    "Tap your name in the top right",
+    "Select 'Wallet' from the menu",
+    "Select 'Pay' at the top of the screen",
+    "Follow the prompts to review and pay any outstanding balances",
+    "Fill out the form below"
+  ],
+  "requirements": [
+    "Payment method declined by Uber",
+    "Less than the owed price given to driver",
+    "Outstanding balance in Wallet"
+  ],
+  "entities": [
+    "Riders",
+    "Uber com"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e4187eff932f4db8b7b"
+  },
+  "question": [
+    "i can t request a ride in uber app",
+    "i can t request a ride in the uber app  what should i do",
+    "how do i fix the issue of not being able to request a ride on uber",
+    "can you help me with the problem of not being able to request a ride in the uber app",
+    "why can t i request a ride on the uber app",
+    "what can i do if the uber app isn t letting me request a ride",
+    "any idea why i m unable to request a ride on uber",
+    "how can i resolve the issue of not being able to request a ride in the uber app"
+  ],
+  "action": "action_206",
+  "steps": [
+    "Follow prompts in the app to clear an outstanding payment",
+    "Update your payment method if declined",
+    "Check if Uber is unavailable in your location after entering pickup and dropoff locations (app will notify you)",
+    "Wait a few minutes and try requesting a ride again if no drivers are available",
+    "Verify your email or phone number if unconfirmed by checking for verification messages from Uber",
+    "Update account settings if needed",
+    "Reach out to Uber support (DM them) with the associated phone number and email address if still unable to request a ride"
+  ],
+  "requirements": [
+    "outstanding payment",
+    "declined payment",
+    "unavailable location",
+    "no drivers available",
+    "unconfirmed email or phone number"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e4387eff932f4db8b7c"
+  },
+  "question": [
+    "i can t sign in to my uber account",
+    "i can t sign in to my uber account  what should i do",
+    "how do i fix the issue of not being able to sign in to my uber account",
+    "can you help me with the problem of not being able to sign in to my uber account",
+    "why can t i sign in to my uber account",
+    "what can i do if i m unable to sign in to my uber account",
+    "any idea why i m having trouble signing in to my uber account",
+    "how can i resolve the issue of not being able to sign in to my uber account",
+    "who can help me if i can t sign in to my uber account",
+    "i m having trouble signing in to my uber account  any tips",
+    "can t log into my uber account  what now",
+    "why won t uber let me sign in",
+    "uber s not letting me sign in  what should i do",
+    "can t get into my uber account  any idea why",
+    "having issues signing in to uber  can you help",
+    "how do i fix it if i can t log into my uber account",
+    "what s up with not being able to sign in to my uber account"
+  ],
+  "action": "action_213",
+  "steps": [
+    "Click the link below to reset your password if you forgot it: https://auth.uber.com/login/forgot-password",
+    "If unable to sign in for any other reason, let us know below",
+    "Provide additional info to confirm your identity:",
+    "- First name",
+    "- Last name",
+    "- Phone number associated with your Uber account",
+    "- Email ID associated with your Uber account",
+    "Describe the issue you are facing while signing in",
+    "Attach a screenshot of the error (max 1)",
+    "Share details of your last two Uber trips",
+    "- Please share the details of your last two Uber trips",
+    "Provide an email address where our support team can contact you"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    "Uber",
+    "password",
+    "account",
+    "login",
+    "forgot password",
+    "auth.uber.com",
+    "phone number",
+    "email ID"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e4787eff932f4db8b7d"
+  },
+  "question": [
+    "how can i change my profile picture in uber app",
+    "how do i change my profile picture in the uber app",
+    "where can i go to update my profile picture on uber",
+    "how can i edit my profile picture on uber",
+    "what steps do i need to take to change my profile picture in the uber app",
+    "is there an easy way to update my profile picture in uber",
+    "what s the process for swapping out my profile picture in the uber app",
+    "can you show me how to upload a new profile picture in uber",
+    "how do i switch up my profile pic on uber",
+    "where s the button to change my pic in the uber app",
+    "want to update my uber profile pic  any clues",
+    "can i make my uber profile look cooler with a new pic",
+    "how do i jazz up my uber profile with a new photo",
+    "want to swap out my boring uber pic  how do i do it",
+    "need to freshen up my uber profile pic  how s it done",
+    "my uber pic needs an upgrade  how do i change it"
+  ],
+  "action": "action_229",
+  "steps": [
+    "Tap your photo or the blank circle in the menu section of your app",
+    "Check if you have a driver account",
+    "If you're a rider with a driver account, go through the driver app to change your profile photo",
+    "Even if your driver account was never activated, your profile photo must be approved before it appears on your account",
+    "The approval typically takes 2 hours",
+    "Once approved, your photo updates on both your rider and driver accounts"
+  ],
+  "requirements": [
+    "Have a driver account",
+    "Riders with a driver account must go through the driver app to change their profile photo",
+    "Your profile photo must be approved before it appears on your account"
+  ],
+  "entities": [
+    "photo",
+    "profile picture",
+    "menu section",
+    "driver account",
+    "Rider account"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e4a87eff932f4db8b7e"
+  },
+  "question": [
+    "i need to update my profile details in uber app",
+    "how can i update my profile details in the uber app",
+    "where do i go to change my profile information on uber",
+    "can you show me how to update my profile in the uber app",
+    "i need to tweak some stuff in my uber profile  how do i do it",
+    "how do i edit my profile details on uber  got some changes to make",
+    "need to spruce up my uber profile  where s the update button",
+    "want to freshen up my uber profile details  how do i go about it",
+    "can i tweak my info on uber  my profile needs a little revamp"
+  ],
+  "action": "action_247",
+  "steps": [
+    "Open the app menu and tap 'Settings'",
+    "Tap the bar that displays your name, phone number, and email",
+    "Tap the detail you want to change and enter the updated information",
+    "Make your updates and click 'Save'",
+    "Enter the OTP sent to your mobile number for verification, confirming account changes"
+  ],
+  "requirements": [
+    "1. Open the app menu and tap 'Settings'",
+    "2. Tap the bar that displays your name, phone number, and email",
+    "3. Tap the detail you want to change and enter the updated information",
+    "4. Make your updates and click 'Save'",
+    "5. Enter the OTP sent to your mobile number for verification"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e5087eff932f4db8b7f"
+  },
+  "question": [
+    "how do i edit my business ride profile in uber app",
+    "how do i edit my business ride profile in the uber app",
+    "where can i go to update my business ride profile details on uber",
+    "can you guide me through the process of editing my business ride profile in the uber app",
+    "i need to make changes to my business ride profile on uber  how do i do it",
+    "how can i tweak my business ride profile settings in the uber app",
+    "want to customize my business ride profile on uber  where s the edit button",
+    "need to modify my business ride profile details  how do i access that in the uber app",
+    "can you help me navigate to the section where i can edit my business ride profile on uber"
+  ],
+  "action": "action_276",
+  "steps": [
+    "Open your Uber app",
+    "Tap on 'Account'",
+    "Scroll down to 'Ride Profiles'",
+    "Tap the profile you'd like to update",
+    "Then tap the item you wish to edit"
+  ],
+  "requirements": [
+    "Open your Uber app",
+    "Tap 'Account'",
+    "Tap 'Wallet' and scroll down to 'Ride Profiles'",
+    "Tap the profile you'd like to update",
+    "Then tap the item you wish to edit"
+  ],
+  "entities": [
+    "profile",
+    "wallet",
+    "Ride Profiles",
+    "payment method",
+    "travel report",
+    "frequency",
+    "expense provider",
+    "provider"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e5287eff932f4db8b80"
+  },
+  "question": [
+    "i would like to know my rating as a uber user",
+    "how can i check my uber user rating",
+    "where do i find my user rating on uber",
+    "can you show me how to view my rating as an uber user",
+    "i d like to know my rating as a user on uber  how do i find it",
+    "how can i see the rating i ve been given as an uber user",
+    "is there a way to check the rating i ve received as an uber user",
+    "can you help me locate my user rating on uber",
+    "where s my user rating displayed in the uber app",
+    "how do i check my uber user rating  got any tips",
+    "any idea how i can see my user rating on uber",
+    "want to know what my uber user rating is  how can i find it",
+    "is there a way to check my rating as an uber user",
+    "i m curious about my uber user rating  how do i check it",
+    "can i see how i m rated as an uber user  if so  how",
+    "how can i find out what my uber user rating is"
+  ],
+  "action": "action_287",
+  "steps": [
+    "Open the Uber app",
+    "Touch the menu",
+    "Your rating is displayed under your name",
+    "Take at least 5 trips before seeing a rider rating"
+  ],
+  "requirements": [
+    "Take at least one trip after which you will be given the opportunity to rate your driver",
+    "Open the Uber app and go to the menu",
+    "Complete 5 trips before you can see your rider rating"
+  ],
+  "entities": [
+    "Uber",
+    "rating",
+    "menu",
+    "app",
+    "trip",
+    "rides"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e5687eff932f4db8b81"
+  },
+  "question": [
+    "how do i turn on 2 step verification in uber app",
+    "how do i enable 2 step verification in the uber app",
+    "where can i find the option to turn on 2 step verification in the uber app",
+    "can you walk me through the process of activating 2 step verification in the uber app",
+    "i want to add an extra layer of security by turning on 2 step verification in the uber app  how do i do it",
+    "how can i set up 2 step verification for my uber account within the app",
+    "where s the setting to enable 2 step verification in the uber app",
+    "can you guide me on how to activate 2 step verification in the uber app",
+    "what are the steps to turn on 2 step verification in the uber app",
+    "how to disable 2 step verification in uber app",
+    "how do i turn off 2 step verification in the uber app",
+    "where can i find the option to disable 2 step verification in the uber app",
+    "can you guide me through the process of deactivating 2 step verification in the uber app",
+    "i want to remove 2 step verification from my uber account  how do i do it",
+    "how can i disable 2 step verification for my uber account within the app",
+    "where s the setting to turn off 2 step verification in the uber app",
+    "can you show me how to deactivate 2 step verification in the uber app",
+    "what are the steps to disable 2 step verification in the uber app"
+  ],
+  "action": "action_313",
+  "steps": [
+    "Navigate to Account Management once signed into your account",
+    "Select Security",
+    "Select 2-Step Verification",
+    "Toggle off 2-Step Verification"
+  ],
+  "requirements": [
+    "Signed into your account",
+    "Navigate to Account Management"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e5a87eff932f4db8b82"
+  },
+  "question": [
+    "how is my rating determined in uber app",
+    "how does uber determine my rating in the app",
+    "what factors are considered in calculating my rating on uber",
+    "can you explain how my rating is determined in the uber app",
+    "what criteria does uber use to determine my rating as a user",
+    "how do the drivers rate me on uber  what affects my rating"
+  ],
+  "action": "action_316",
+  "steps": [
+    "Riders and drivers can rate each other from 1 to 5 stars",
+    "Based on their trip experience",
+    "Driver and rider ratings are displayed as an average",
+    "A highly rated rider might have, for example, 4.9 stars",
+    "Anonymous neither riders nor drivers see individual ratings tied to a particular trip or person",
+    "Candid, constructive, and respectful feedback is beneficial for everyone",
+    "Providing a rating fosters mutual respect between riders and drivers",
+    "This strengthens our community and helps everyone get the most from Uber"
+  ],
+  "requirements": [
+    "After each trip",
+    "Riders and drivers can rate each other from 1 to 5 stars",
+    "Based on their trip experience",
+    "Driver and rider ratings are displayed as an average"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e5c87eff932f4db8b83"
+  },
+  "question": [
+    "can we have uber family accounts",
+    "does uber offer family accounts",
+    "can i create a family account on uber",
+    "is there an option for multiple users under one account on uber",
+    "does uber provide any feature for managing family rides or accounts",
+    "can i set up a shared account for my family members on uber",
+    "is there a way to link multiple accounts within a family on uber",
+    "are there any special features or options for family accounts on uber",
+    "can i manage rides for my family members from a single account on uber",
+    "is there a family plan or shared account option available on uber",
+    "can i create a joint uber account for my family members",
+    "does uber offer any features specifically designed for families or groups",
+    "can i link multiple accounts together for family use on uber",
+    "is it possible to have a unified uber account for my family",
+    "are there any options for managing rides collectively for a family on uber",
+    "does uber provide any tools for organizing family rides or expenses",
+    "can i set up a group account for my family members to use on uber"
+  ],
+  "action": "action_321",
+  "steps": [
+    "Go to Account and select Settings in the app",
+    "Scroll down and tap Family",
+    "Only one family profile can be created at a time",
+    "Family members cannot be restricted to certain vehicle types or spending limits",
+    "Invite a member: Go to Account and select Settings in the app, Scroll down and tap Family, Tap Add member and select people from your contact list to send them an invite to join your profile",
+    "Remove a member: Go to Account and select Settings in the app, Scroll down and tap Family, Select the name of the family member you want to remove, Tap Remove family member",
+    "Before verifying a member was removed from the family profile, make sure you have updated to the latest version of the app. Quit the app and then reopen to see if the member has been removed"
+  ],
+  "requirements": [
+    "Make sure you have updated to the latest version of the app",
+    "The user must be 18 years of age or the age of legal majority in their location",
+    "Only one family profile can be created at a time"
+  ],
+  "entities": [
+    "account",
+    "settings",
+    "family",
+    "add member",
+    "invite",
+    "Uber Family",
+    "terms and conditions",
+    "profile"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e6087eff932f4db8b84"
+  },
+  "question": [
+    "how to change payment method in uber family profile",
+    "how do i update the payment method in my uber family profile",
+    "where can i go to change the payment method for my uber family profile",
+    "can you guide me through the process of updating the payment method in my uber family profile",
+    "i need to switch the payment method for my uber family profile  how can i do that",
+    "how do i edit the payment details in my uber family profile",
+    "is there a way to change the payment method for my family s uber profile",
+    "can you show me how to update the credit card information for my uber family profile"
+  ],
+  "action": "action_326",
+  "steps": [
+    "Go to Account and select Settings in the app",
+    "Scroll down and tap Family",
+    "Under Preferences, select Default Payment",
+    "Only Credit or Debit cards can be used as a payment preference for your family profile"
+  ],
+  "requirements": [
+    "Have an Uber Family Profile",
+    "Have an account with settings accessible in the app",
+    "Be able to scroll down in the app"
+  ],
+  "entities": [
+    "credit_card",
+    "payment_method"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e6287eff932f4db8b85"
+  },
+  "question": [
+    "i want to change email for trip receipts in my uber family account",
+    "how do i update the email for trip receipts in my uber family account",
+    "where can i go to change the email address for trip receipts in my uber family account",
+    "can you guide me through the process of updating the email for trip receipts in my uber family account",
+    "i need to switch the email address for trip receipts in my uber family account  how can i do that",
+    "how do i edit the email address for trip receipts in my uber family account",
+    "is there a way to change the email for trip receipts in my family s uber profile",
+    "can you show me how to update the email address for trip receipts in my uber family account"
+  ],
+  "action": "action_331",
+  "steps": [
+    "Go to Account",
+    "Select Settings in the app",
+    "Scroll down and tap Family",
+    "Under Preferences, Select Email Receipts, and Make the Change"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e6487eff932f4db8b86"
+  },
+  "question": [
+    "how do i delete family profile",
+    "how do i delete a family profile on uber",
+    "where can i find the option to delete my family profile in uber",
+    "can you guide me through the process of deleting my family profile on uber",
+    "i want to remove my family profile from uber  how can i do that",
+    "how do i delete the family profile associated with my uber account",
+    "is there a way to cancel or deactivate my family profile on uber",
+    "what steps do i need to take to delete my family profile in uber",
+    "can you show me how to remove my family profile from uber"
+  ],
+  "action": "action_327",
+  "steps": [
+    "go to account",
+    "select settings",
+    "select family",
+    "scroll to the bottom",
+    "tap delete profile",
+    "confirm"
+  ],
+  "requirements": [
+    "have an account",
+    "have the Uber app"
+  ],
+  "entities": [
+    "Uber",
+    "family profile",
+    "account",
+    "settings",
+    "app",
+    "delete profile"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e6687eff932f4db8b87"
+  },
+  "question": [
+    "how can i add frequent destination in uber ios app",
+    "how do i set up frequent destinations in the uber ios app",
+    "where can i add my frequent destinations in the uber app for ios",
+    "can you show me how to input my regular destinations in the uber ios app",
+    "what s the process for adding frequent locations in the uber app on my iphone",
+    "i d like to know how to save my frequent destinations in the uber app for ios  can you help",
+    "is there a way to save my commonly visited places in the uber ios app",
+    "how do i save my usual destinations in the uber app on my iphone",
+    "can you guide me through the steps to add my frequent destinations in the uber ios app"
+  ],
+  "action": "action_368",
+  "steps": [
+    "1. Tap account",
+    "2. Tap settings",
+    "3. Tap 'Add Home' or 'Add Work'",
+    "4. Enter the address"
+  ],
+  "requirements": [
+    "Have the app installed",
+    "Log in to the app",
+    "Access the settings menu",
+    "Tap on 'Add Home' or 'Add Work'"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e6887eff932f4db8b88"
+  },
+  "question": [
+    "how can i delete my home address from the saved places in uber",
+    "is there a way to remove my home location from uber s saved places",
+    "can you show me how to take my home address off the saved places list in uber",
+    "i want to get rid of my home address in uber s saved places  how do i do that",
+    "how do i delete my home location from uber s saved places on my account",
+    "can you guide me through the steps to remove my home address from uber s saved places",
+    "is it possible to remove my home from the saved locations in uber  if so  how",
+    "how can i edit or remove my home address from the saved places section in uber",
+    "i want to remove my home from the uber saved places"
+  ],
+  "action": "action_372",
+  "steps": [
+    "tap account",
+    "tap settings",
+    "tap more saved places",
+    "tap the place you'd like to remove",
+    "tap delete"
+  ],
+  "requirements": [
+    "single tap on account",
+    "two taps on settings",
+    "three taps on more saved places",
+    "tap on place to remove",
+    "tap on delete"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e6a87eff932f4db8b89"
+  },
+  "question": [
+    "how can i add saved place in uber android app",
+    "how do i save a location in the uber android app",
+    "where can i find the option to add a saved place in the uber app for android",
+    "can you guide me through the process of saving a place in the uber android app",
+    "i want to add a saved place in the uber app on my android device  how can i do that",
+    "how do i save my frequently visited places in the uber android app",
+    "is there a way to add a location to my saved places in the uber app for android",
+    "can you show me how to save a place for future use in the uber android app"
+  ],
+  "action": "action_384",
+  "steps": [
+    "Save this destination"
+  ],
+  "requirements": [
+    "You have taken a trip to a destination",
+    "You have access to the Uber Android app"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e6c87eff932f4db8b8a"
+  },
+  "question": [
+    "how can i remove saved place in uber android app",
+    "how do i delete a saved place in the uber android app",
+    "where can i find the option to remove a saved place in the uber app for android",
+    "can you guide me through the process of deleting a saved place in the uber android app",
+    "i want to remove a saved place from the uber app on my android device  how can i do that",
+    "how do i delete a location from my saved places in the uber android app",
+    "is there a way to remove a location from my saved places in the uber app for android",
+    "can you show me how to delete a saved place in the uber android app"
+  ],
+  "action": "action_388",
+  "steps": [
+    "Select account",
+    "Tap settings",
+    "Tap more saved places",
+    "Tap the three dots next to the place you would like to remove",
+    "Select remove"
+  ],
+  "requirements": [
+    "select account",
+    "tap settings",
+    "more saved places",
+    "tap three dots next to the place you would like to remove",
+    "select remove"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e6e87eff932f4db8b8b"
+  },
+  "question": [
+    "i m having trouble linking to my company s business account  pls help me",
+    "i m having trouble linking to my company s business account on uber  can you assist me",
+    "can you help troubleshoot why i m unable to link to my company s business account on uber",
+    "i m experiencing difficulties connecting to my company s business account on uber  what should i do",
+    "having trouble linking my uber account to my company s business account  any suggestions",
+    "can you provide assistance with linking my uber account to my company s business account  i seem to be encountering some issues",
+    "i m encountering problems trying to link to my company s business account on uber  can you offer guidance",
+    "i need assistance resolving the issue with linking my uber account to my company s business account  can you help troubleshoot",
+    "how do i troubleshoot the problem with linking my uber account to my company s business account"
+  ],
+  "action": "action_398",
+  "steps": [
+    "Make sure you don't forward your email invite or use a forwarded invite",
+    "Everyone invited by the administrator will have their own personal email invitation",
+    "If using a PIN code from your organization, please ensure you've entered it correctly",
+    "Use your existing login information if you already have an account (this is only for login purposes)",
+    "Your company won't have access to trips taken on your personal profile",
+    "If still can't connect, ask your company's account admin to resend the invite",
+    "If you need further assistance, please provide the following information"
+  ],
+  "requirements": [
+    "Don't forward your email invite",
+    "Ensure you've entered the pin code correctly (if using one)",
+    "Use your existing login information if you already have an account",
+    "Ask your company's account admin to resend the invite if you still can't connect"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e7187eff932f4db8b8c"
+  },
+  "question": [
+    "my uber account has an unrecognized charge  i have no clue",
+    "i have an unrecognized charge on my uber account  can you help me figure out what it is",
+    "there s a charge on my uber account that i don t recognize  what should i do",
+    "i m seeing an unfamiliar charge on my uber account  any idea what it could be",
+    "i ve been billed for something on my uber account that i didn t authorize  can you assist",
+    "can you help me figure out a charge on my uber account that i don t understand",
+    "there s a charge showing up on my uber account that i have no clue about  can you provide guidance",
+    "how do i deal with an unrecognized charge on my uber account",
+    "what steps should i take if there s a charge on my uber account that i can t identify"
+  ],
+  "action": "action_407",
+  "steps": [
+    "Review the following information:",
+    "Is it a pending charge?",
+    "Check if it's an authorization hold (will eventually drop off your account)",
+    "Check with friends or family members using your account",
+    "Check recent trip history to see if you recently canceled a trip",
+    "Share details below (transaction date, transaction amount, card first 6 digits, last 4 digits, screenshot of unrecognized charge) if the charge is still unknown",
+    "Tell Uber support team about multiple unknown charges"
+  ],
+  "requirements": [
+    "Unfamiliar charge from Uber on your credit card or bank account",
+    "Recent addition of new payment method",
+    "Inactivity in using Uber for a while",
+    "Possibility of friend or family member using your account",
+    "Cancelling a trip (recently)",
+    "Unknown charge not recognized"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e7387eff932f4db8b8d"
+  },
+  "question": [
+    "i need help with applying voucher in uber app",
+    "can you assist me with applying a voucher in the uber app",
+    "how do i use a voucher in the uber app  can you provide guidance",
+    "i m having trouble applying a voucher in the uber app  can you help me out",
+    "can you walk me through the process of redeeming a voucher in the uber app",
+    "i need help figuring out how to use a voucher in the uber app  can you provide some assistance",
+    "is there a way to apply a voucher in the uber app that i m missing  can you help me find it",
+    "how do i go about redeeming a voucher in the uber app  i could use some guidance",
+    "can you provide step by step instructions for applying a voucher in the uber app"
+  ],
+  "action": "action_414",
+  "steps": [
+    "Claim the voucher",
+    "Open the link in the email you received to redeem your voucher and add it to your account",
+    "Request a qualifying ride",
+    "Check the details of the voucher through the original link",
+    "Accept the voucher link",
+    "Use your personal ride profile (unless you joined your company business account and your company sent you a voucher; contact your administrator for questions)",
+    "Vouchers don't work on a business profile",
+    "Have the latest version of the app",
+    "Update your app or uninstall then reinstall it from the App Store or Google Play Store",
+    "If your app is updated, try force stopping and restarting the app",
+    "Add a personal payment method to your account (even if your voucher will fully cover your ride order)"
+  ],
+  "requirements": [
+    "Claimed the voucher",
+    "Opened the link in the email you received to redeem your voucher and added it to your account",
+    "Requested a qualifying ride",
+    "Used your personal ride profile (unless you joined your company business account and your company sent you a voucher, contact your administrator for questions)",
+    "Vouchers don't work on a business profile",
+    "Have the latest version of the app",
+    "Updated your app or uninstalled then reinstalled it from the App Store or Google Play Store",
+    "If your app is updated, try force stopping and restarting the app",
+    "Added a personal payment method to your account (even if your voucher will fully cover your ride order)"
+  ],
+  "entities": [
+    "claimed the voucher",
+    "open the link in the email you received to redeem your voucher and add it to your account",
+    "requested a qualifying ride",
+    "check the details of the voucher through the original accept voucher link",
+    "used your personal ride profile",
+    "have the latest version of the app",
+    "update your app or uninstall then reinstall it from the app store or google play store",
+    "force stopping and restarting the app",
+    "added a personal payment method to your account"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e7587eff932f4db8b8e"
+  },
+  "question": [
+    "how can i use vouchers from businesses",
+    "how do i redeem vouchers from businesses in the uber app",
+    "can you guide me through the process of using vouchers from businesses in uber",
+    "i m unsure how to use vouchers provided by businesses in the uber app  can you help",
+    "can you provide instructions on how to apply vouchers from businesses in the uber app",
+    "i have vouchers from businesses but don t know how to use them in uber  any advice",
+    "how do i go about using vouchers given by businesses in the uber app",
+    "is there a specific way to apply vouchers from businesses in the uber app  please assist",
+    "can you walk me through the steps for using vouchers provided by businesses in uber"
+  ],
+  "action": "action_425",
+  "steps": [
+    "Sign in to the Uber app or create an account at uber.com",
+    "Click the link in your email to claim the voucher",
+    "The voucher will automatically be added to your account and will apply to your next qualifying trip or order",
+    "Make sure you're using your personal profile (vouchers don't work on a business profile)"
+  ],
+  "requirements": [
+    "Sign in to the Uber app or create an account at Uber.com",
+    "Click the link in your email to claim the voucher",
+    "Make sure you're using your personal profile (vouchers don't work on a business profile)",
+    null
+  ],
+  "entities": [
+    "Sign in to the Uber app or create an account at Uber.com",
+    "Click the link in your email to claim the voucher",
+    "The voucher will automatically be added to your account and will apply to your next qualifying trip or order"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e7787eff932f4db8b8f"
+  },
+  "question": [
+    "how to view vouchers on my uber account",
+    "how can i view vouchers on my uber account",
+    "where do i find vouchers in my uber account",
+    "can you guide me on how to view the vouchers available in my uber account",
+    "i m unsure where to look for vouchers in my uber account  can you help me locate them",
+    "how do i access the vouchers section in my uber account",
+    "is there a specific place in my uber account where i can see my vouchers",
+    "can you show me how to check the vouchers associated with my uber account",
+    "where can i find a list of vouchers that have been applied to my uber account"
+  ],
+  "action": "action_432",
+  "steps": [
+    "open your Uber app",
+    "tap on 'Account'",
+    "tap on 'Wallet'",
+    "scroll down and tap on 'Vouchers'"
+  ],
+  "requirements": [
+    "Open Uber app",
+    "Tap 'Account'",
+    "Tap 'Wallet'",
+    "Scroll down and tap 'Vouchers'"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e7a87eff932f4db8b90"
+  },
+  "question": [
+    "can i extend expired promotions",
+    "is it possible to extend expired promotions on uber",
+    "can i request an extension for promotions that have expired on uber",
+    "how do i go about extending promotions that have already expired on uber",
+    "can i ask for an extension for promotions that i missed on uber",
+    "is there a way to prolong expired promotions on uber"
+  ],
+  "action": "action_444",
+  "steps": [
+    "Promo codes won't work after the expiration date",
+    "Can't be extended or renewed"
+  ],
+  "requirements": [
+    "No"
+  ],
+  "entities": [
+    "Uber",
+    "promotions",
+    "expiration date"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e7b87eff932f4db8b91"
+  },
+  "question": [
+    "how can i view which promotions are currently applied to my account",
+    "how do i check which promotions are currently applied to my uber account",
+    "where can i view the promotions that are currently active on my uber account",
+    "can you show me how to see which promotions are currently applied to my account in the uber app",
+    "i d like to know where i can find the list of promotions currently active on my uber account  how do i do that",
+    "is there a way to view the promotions that are currently applied to my uber account  if so  how",
+    "can you guide me through the steps to check the promotions that are currently active on my uber account"
+  ],
+  "action": "action_451",
+  "steps": [
+    "Tap on the 'Account' tab",
+    "Tap on the 'Wallet' tab",
+    "Tap on the 'Promotions' tab",
+    "You'll see any current and expired promotions listed",
+    "Tap a promo to view its details"
+  ],
+  "requirements": [
+    "have_an_ubernet_account",
+    "be_logged_in"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e8187eff932f4db8b92"
+  },
+  "question": [
+    "what is uber one",
+    "what is uber one",
+    "can you explain uber one",
+    "what s the deal with uber one",
+    "can you give me details about uber one",
+    "what exactly does uber one involve",
+    "could you provide some information about uber one"
+  ],
+  "action": "action_476",
+  "steps": [
+    "Uber One is a paid membership subscription",
+    "It offers two options: monthly plan and annual plan",
+    "When users subscribe to Uber One, they can unlock savings across Uber and Uber Eats apps for a fixed subscription fee",
+    "Savings include:",
+    "- Reduced ride costs (Rs. 0 delivery fee)",
+    "- Free delivery on orders available only for eligible stores (showing the gold Uber One icon)",
+    "Additional benefits include letting you do more with Uber",
+    "Monthly membership costs Rs. 599",
+    "Annual membership costs Rs. 5,999",
+    "Membership renews automatically every month or when it expires",
+    "Check the membership expiry date or unsubscribe from the plan in the Uber One section of the app or web browser",
+    "Cancel at least 48 hours before your billing day to avoid incurring the charge for the next billing cycle",
+    "Alternatively, contact support to cancel",
+    "All plans are available to both Uber and Uber Eats covered areas in Sri Lanka"
+  ],
+  "requirements": [
+    "Paid membership subscription",
+    "Subscription fee payment (either monthly or annual)",
+    "Availability in eligible stores showing the gold Uber One icon",
+    "Access to the Uber One section in the app or web browser",
+    "Membership renewal every month or upon expiration",
+    "48 hours' notice before canceling a subscription to avoid incuring charges"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e8287eff932f4db8b93"
+  },
+  "question": [
+    "can i use uber one with other promos",
+    "can i combine uber one with other promotions",
+    "is it possible to use uber one alongside other promos",
+    "can i stack uber one with other promotional offers",
+    "will uber one work in conjunction with other promos",
+    "can i apply uber one and other promotions simultaneously",
+    "is there a way to use uber one along with other promotional deals"
+  ],
+  "action": "action_479",
+  "steps": [
+    "Apply both Uber One benefits and promo code",
+    "If applying multiple benefits, use them in the same order",
+    "The system will deduct Uber One benefits first",
+    "Then deduct the promo code benefit",
+    "For example: if the promo code contains a reduction on delivery fee",
+    "And the eats order price is under Rs. 900 (without delivery fee)",
+    "The promo code will apply",
+    "If the eats order price is above Rs. 900, Uber One benefit (Rs. 0 delivery fee) will apply"
+  ],
+  "requirements": [
+    "Having an Uber One benefits",
+    "Applying multiple benefits simultaneously",
+    "The system deducting Uber One benefits first",
+    "The system deducting promo code benefit next",
+    "Understanding how the system applies multiple benefits (e.g. Uber One benefits deducted before promo code)",
+    null
+  ],
+  "entities": [
+    "Uber One",
+    "promotional deals",
+    "promo code",
+    "benefits",
+    "Eats order price",
+    "delivery fee"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e8487eff932f4db8b94"
+  },
+  "question": [
+    "can i share my uber one with others",
+    "am i allowed to share my uber one benefits with others",
+    "can i give access to my uber one membership to someone else",
+    "is it possible to share my uber one perks with friends or family",
+    "can i extend my uber one benefits to other people",
+    "is sharing my uber one membership with others allowed",
+    "can i let others use my uber one benefits"
+  ],
+  "action": "action_486",
+  "steps": [
+    "Check if you have an Uber One subscription",
+    "Realize that Uber One is intended for individual members only",
+    "Understand that sharing your Uber One subscription is a violation of the terms and conditions",
+    "Recognize that sharing your Uber One benefits may lead to account review by Uber",
+    "Respect the terms and conditions, and keep your Uber One subscription personal"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e8687eff932f4db8b95"
+  },
+  "question": [
+    "how do i subscribe for uber one membership",
+    "how can i sign up for an uber one membership",
+    "what s the process for subscribing to uber one",
+    "can you guide me through the steps to enroll in uber one",
+    "how do i become a member of uber one",
+    "where can i go to subscribe for uber one membership",
+    "what do i need to do to join uber one",
+    "can you show me how to join uber one",
+    "how do i start my uber one subscription",
+    "is there a way to become an uber one member",
+    "what are the steps to becoming part of uber one",
+    "can you assist me in signing up for uber one"
+  ],
+  "action": "action_501",
+  "steps": [
+    "Open the Uber app or Uber Eats app",
+    "Tap on the account icon in the lower right corner",
+    "Tap on 'Uber One' and follow the prompts to enroll",
+    "Membership renews automatically unless otherwise specified",
+    "The subscription fee is non-refundable once charged to you",
+    "Cancel membership at any time in the app",
+    "Cancel at least 48 hours before your billing day to avoid incurring the charge for the next billing cycle",
+    "Seek assistance from in-app support if needed (within 48 hours)"
+  ],
+  "requirements": [
+    "Uber one membership via card payment",
+    "Available monthly plan or annual plan",
+    "Card payment in Uber app and Uber Eats app",
+    "Account setup (refer to link for further information)",
+    "Tap 'account' in lower right corner of app",
+    "Tap 'Uber One' and follow prompts to enroll",
+    "Membership renews automatically unless otherwise specified",
+    "Subscription fee is non-refundable once charged",
+    "Cancel membership at any time in the app",
+    "Cancel at least 48 hours before billing day to avoid next billing cycle charge",
+    "Seek assistance from in-app support within 48 hours"
+  ],
+  "entities": [
+    "Uber One",
+    "monthly plan",
+    "annual plan",
+    "card payment",
+    "Uber app",
+    "Uber Eats app",
+    "link",
+    "new members",
+    "account",
+    "membership"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e8987eff932f4db8b96"
+  },
+  "question": [
+    "how do i cancel my uber one membership",
+    "how can i cancel my uber one membership",
+    "what s the process for ending my uber one subscription",
+    "can you guide me through the steps to cancel my uber one membership",
+    "how do i stop my uber one membership",
+    "where can i find the option to cancel my uber one membership",
+    "what s the procedure for terminating my uber one subscription",
+    "can you assist me in cancelling my uber one membership",
+    "is there a way to unsubscribe from uber one"
+  ],
+  "action": "action_506",
+  "steps": [
+    "1. Auto renew subscription: Tap the account icon",
+    "2. Tap Uber One",
+    "3. Scroll and tap 'Manage Membership'",
+    "4. Select 'End Membership' and then 'Leave Uber One' to cancel your membership"
+  ],
+  "requirements": [
+    "have an Uber One account",
+    "have access to the app or online platform",
+    "be at least 48 hours before billing day (to avoid incurring a charge)",
+    "seek assistance from in-app help support (if within 48 hours)"
+  ],
+  "entities": [
+    "Uber One",
+    "app",
+    "online",
+    "membership",
+    "billing day",
+    "billing cycle",
+    "help support",
+    "account icon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e8b87eff932f4db8b97"
+  },
+  "question": [
+    "i accidentally subscribed to uber one  what can i do",
+    "i accidentally subscribed to uber one  what are my options",
+    "can you help me undo my accidental subscription to uber one",
+    "what should i do if i accidentally signed up for uber one",
+    "i didn t mean to subscribe to uber one  what steps should i take",
+    "is there a way to reverse my accidental subscription to uber one",
+    "can you guide me on how to cancel my accidental enrollment in uber one",
+    "what s the process for rectifying an accidental subscription to uber one",
+    "how do i fix my mistake of subscribing to uber one by accident",
+    "accidentally subscribed to uber one  any way to backtrack",
+    "help  i accidentally joined uber one  how can i reverse it",
+    "what steps can i take if i accidentally enrolled in uber one",
+    "i didn t mean to subscribe to uber one  can you assist me in fixing it"
+  ],
+  "action": "action_524",
+  "steps": [
+    "Cancel the Uber One membership in the app",
+    "Do so at least 48 hours prior to your next scheduled payment to avoid any further charges",
+    "Seek assistance from in-app support if it's within 48 hours",
+    "Turn off the auto-renew subscription toggle in the Uber app and Uber Eats app to prevent future auto subscriptions",
+    "Toggle off the auto-renew option in your current Uber One plan to prevent it from renewing on the next cycle"
+  ],
+  "requirements": [
+    "Have the Uber app installed",
+    "Be logged in to the app",
+    "Be within 48 hours of your next scheduled payment (if you want to avoid further charges)",
+    "Seek assistance from in-app support (if needed) within 48 hours",
+    "Toggle off the auto-renew subscription option in the Uber app and Uber Eats app"
+  ],
+  "entities": [
+    "Uber",
+    "Uber One membership",
+    "app",
+    "in-app support",
+    "auto renew subscription toggle"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e8e87eff932f4db8b98"
+  },
+  "question": [
+    "my uber one cashback wasn t credited  what can i do",
+    "my uber one cashback wasn t credited  what should i do to resolve this",
+    "i didn t receive the cashback from my uber one membership  how can i get it",
+    "what steps can i take if my uber one cashback hasn t been credited to my account",
+    "can you help me figure out why my uber one cashback wasn t credited",
+    "how do i address the issue of missing uber one cashback not being credited",
+    "is there a way to inquire about my missing uber one cashback credit",
+    "who should i contact if my uber one cashback hasn t shown up in my account",
+    "what s the procedure for resolving a situation where my uber one cashback isn t credited"
+  ],
+  "action": "action_527",
+  "steps": [
+    "Check if your trip was eligible for Uber One",
+    "If it was eligible and you didn't receive the credits within 72 hours, share more details with us below",
+    "Contact the Support Team"
+  ],
+  "requirements": [
+    "No specific prerequisites mentioned"
+  ],
+  "entities": [
+    "Uber",
+    "Support Team"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e9287eff932f4db8b99"
+  },
+  "question": [
+    "i need help signing up for a rider account",
+    "can you assist me with creating a rider account",
+    "i m looking for help to sign up for a rider account  can you lend a hand",
+    "how do i go about registering for a rider account",
+    "could you guide me through the process of signing up for a rider account",
+    "i need some assistance in setting up a rider account  can you help me out",
+    "is there someone who can help me with the process of creating a rider account"
+  ],
+  "action": "action_547",
+  "steps": [
+    "Upgrade to the latest version of the app",
+    "Contact us if having trouble signing up",
+    "Share details (email address) where our support team can contact you"
+  ],
+  "requirements": [
+    "Upgraded to the latest version of the app",
+    "No other issues with signing up"
+  ],
+  "entities": [
+    "signing up",
+    "ride with uber",
+    "signing up",
+    "signing up"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e9487eff932f4db8b9a"
+  },
+  "question": [
+    "can you guide me through the sign up process to become an uber driver",
+    "i m interested in becoming an uber driver  how do i sign up",
+    "what are the steps to start driving for uber",
+    "is there a way to begin the process of becoming an uber driver",
+    "can you show me how to register as an uber driver",
+    "i want to sign up to drive with uber  pls help me",
+    "how can i start driving with uber"
+  ],
+  "action": "action_554",
+  "steps": [
+    "Sign up to drive through the Uber app",
+    "Download the Driver App to receive trip requests from riders",
+    "Your driver app keeps track of your trip fares",
+    "Uber facilitates payment of your earnings to your bank account"
+  ],
+  "requirements": [
+    "Have your own vehicle",
+    "Download the Uber Driver App",
+    "Create an account through the Uber app at uber.com"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e9687eff932f4db8b9b"
+  },
+  "question": [
+    "can i bring someone with me while i m online",
+    "am i allowed to bring someone with me while i m driving for uber",
+    "can i have a passenger with me in the car while i m online as an uber driver",
+    "is it permitted for me to bring a companion while i m working as an uber driver",
+    "can i bring someone along for the ride while i m on duty as an uber driver",
+    "is there a policy against having someone accompany me while i m driving for uber",
+    "am i allowed to have a passenger in the car with me while i m online as an uber driver",
+    "can i drive for uber with a companion present in the vehicle"
+  ],
+  "action": "action_558",
+  "steps": [
+    "Make sure your vehicle is only for passengers when you're online and accepting trip requests",
+    "Ensure there are no additional passengers (friends, family, or any other passengers) in your car during a trip",
+    "Only have space for yourself and riders when you're online with Uber",
+    "Adhere to these guidelines to maintain a high level of service and trust with customers"
+  ],
+  "requirements": [
+    "Your vehicle must be for passengers only",
+    "You must be online and accepting trip requests",
+    "There should not be any additional passengers (friends, family, etc.) in your car during a trip",
+    "The vehicle should only have space for you and your riders when you're online with Uber"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e9887eff932f4db8b9c"
+  },
+  "question": [
+    "how can i accept or decline trip requests in uber driver app",
+    "how do i accept or decline trip requests in the uber driver app",
+    "can you show me the process for accepting or declining trip requests in the uber driver app",
+    "i m not sure how to handle trip requests in the uber driver app  can you help",
+    "what steps do i need to take to accept or decline trip requests while using the uber driver app",
+    "is there a specific button or option for accepting or declining trip requests in the uber driver app",
+    "can you guide me through the procedure for managing trip requests in the uber driver app",
+    "how do i respond to trip requests that come through the uber driver app"
+  ],
+  "action": "action_571",
+  "steps": [
+    "A box with a flashing blue button appears on your screen when there's a new trip request",
+    "To accept a request, tap the flashing blue button quickly within 15 seconds",
+    "Declining a request: if you'd rather not take the trip, tap the X icon in the screen's top left corner",
+    "This will pass the request to another driver partner (handy if you're about to go offline)"
+  ],
+  "requirements": [
+    "Receiving a request",
+    "Having the Uber Driver App installed on your device",
+    "Being online and connected to the internet"
+  ],
+  "entities": [
+    "Uber",
+    "driver app",
+    "trip requests",
+    "accepting",
+    "declining",
+    "request",
+    "flashing blue button",
+    "X icon",
+    "screen",
+    "top left corner"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e9a87eff932f4db8b9d"
+  },
+  "question": [
+    "what are the required documents for driving with uber",
+    "what documents do i need to drive with uber",
+    "can you provide a list of the required documents for driving with uber",
+    "what paperwork is necessary for becoming an uber driver",
+    "can you tell me what documents i need to submit to drive with uber",
+    "what are the essential documents i must have to start driving for uber",
+    "could you outline the required documentation for becoming an uber driver",
+    "can you guide me on the documents i need to prepare in order to drive with uber"
+  ],
+  "action": "action_581",
+  "steps": [
+    "Get a valid driver's license",
+    "Get proof of vehicle insurance",
+    "Get the registration for your vehicle"
+  ],
+  "requirements": [
+    "valid driver's license",
+    "proof of vehicle insurance",
+    "registration for your vehicle"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e9c87eff932f4db8b9e"
+  },
+  "question": [
+    "how do i get payments for my trips",
+    "how do i receive payments for my trips as an uber driver",
+    "can you explain the process of getting paid for my trips with uber",
+    "what steps do i need to take to receive payments for the trips i complete with uber",
+    "how does uber handle payments for the trips i provide as a driver",
+    "is there a specific method or system for receiving payments for my uber trips",
+    "can you guide me through the payment process for the trips i complete as an uber driver",
+    "what s the procedure for accessing the payments i ve earned from driving with uber",
+    "what s the deal with getting paid for my uber trips",
+    "how can i cash in on the trips i complete with uber",
+    "what s the payment setup like for uber drivers"
+  ],
+  "action": "action_592",
+  "steps": [
+    "Weekly payments: Uber drivers get paid on a weekly basis",
+    "Funds are directly deposited into your bank account",
+    "You can expect to see your earnings in your account by Wednesday each week",
+    "If Wednesday passes and you haven't been paid, contact Uber support for help"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    "weekly payments",
+    "Uber",
+    "drivers",
+    "Wednesday",
+    "bank account",
+    "support"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534e9e87eff932f4db8b9f"
+  },
+  "question": [
+    "how to download the uber driver app for android",
+    "how do i download the uber driver app on my android device",
+    "can you guide me through the process of downloading the uber driver app for android",
+    "what steps do i need to take to install the uber driver app on my android phone",
+    "how can i get the uber driver app on my android device",
+    "is there a specific way to download the uber driver app for android",
+    "can you provide instructions on how to download the uber driver app on an android smartphone",
+    "where can i find the uber driver app for android and how do i download it",
+    "what s the procedure for downloading the uber driver app onto my android device"
+  ],
+  "action": "action_594",
+  "steps": [
+    "Visit the Uber Driver App page on the Google Play Store",
+    "Tap 'Install' to download the app to your device"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ea187eff932f4db8ba0"
+  },
+  "question": [
+    "how can i find busy areas in uber driver app",
+    "how do i locate busy areas in the uber app",
+    "how do i locate busy areas using the uber driver app",
+    "can you show me where to find busy areas on the uber driver app",
+    "what s the process for identifying busy areas in the uber driver app",
+    "where can i access information about busy areas while using the uber driver app",
+    "is there a feature in the uber driver app that helps me find busy areas",
+    "can you guide me on how to check for busy areas in the uber driver app",
+    "how do i see which areas are busy in the uber driver app"
+  ],
+  "action": "action_609",
+  "steps": [
+    "Look for areas that are highlighted with warm colors",
+    "The darker the zones are, the shorter the wait times",
+    "Tap on any highlighted area to see additional information",
+    "Including distance to the merchant and option to start navigation",
+    "The app refreshes hotspots every 5 minutes to show you the latest demand areas in real time",
+    "Keep an eye on the map to find the best spots"
+  ],
+  "requirements": [
+    "Use the colored zones feature",
+    "Look for areas highlighted with warm colors",
+    "Note the darker the zones, the shorter the wait times",
+    "Tap on any highlighted area to see additional information",
+    "Keep an eye on the map to find the best spots"
+  ],
+  "entities": [
+    "Uber Driver App",
+    "colored zones",
+    "high demand areas",
+    "warm colors",
+    "wait times",
+    "hotspots"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ea387eff932f4db8ba1"
+  },
+  "question": [
+    "how to see highest demand rides",
+    "how can i view the highest demand rides in the uber driver app",
+    "can you guide me through the process of finding the rides with the highest demand in the uber driver app",
+    "where can i see the rides with the highest demand while using the uber driver app",
+    "is there a feature in the uber driver app that allows me to identify rides with the highest demand",
+    "how do i check for rides with the highest demand in the uber driver app",
+    "can you show me how to access information about rides with the highest demand in the uber driver app",
+    "what steps do i need to take to see which rides have the highest demand in the uber driver app",
+    "where do i go within the uber driver app to find out about rides that are in high demand"
+  ],
+  "action": "action_619",
+  "steps": [
+    "Open the Uber Driver App",
+    "Tap the arrow icon in the lower left corner of the app",
+    "Choose 'See Hourly Trends'"
+  ],
+  "requirements": [
+    "Open the driver app",
+    "Tap the arrow icon in the lower left corner",
+    "Choose 'See hourly trends'",
+    "Select a specific area (city name) next to 'View' for"
+  ],
+  "entities": [
+    "hourly trends",
+    "app",
+    "icon",
+    "city name",
+    "heat map",
+    "surge pricing insights"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ea587eff932f4db8ba2"
+  },
+  "question": [
+    "can i change final destination while riding",
+    "is it possible to change the final destination while already on a ride with uber",
+    "can i modify the final destination during a ride with uber",
+    "is there a way to change the destination midway through an uber trip",
+    "can i update the final destination while already in the car with uber",
+    "how do i change the destination once the trip has already started with uber",
+    "can i adjust the final destination while the uber ride is in progress",
+    "is there a feature to alter the destination during an ongoing uber trip",
+    "can you change the final destination while you re already en route with uber"
+  ],
+  "action": "action_625",
+  "steps": [
+    "Tap the Enter Destination bar",
+    "Type in the new address you want to go to",
+    "Remember, this option is not available for Uber Pool trips",
+    "Double check destinations",
+    "Some places have streets with similar names, so make sure the destination is correct"
+  ],
+  "requirements": [
+    "Have an Uber account",
+    "Be logged in to your Uber account",
+    "Have internet connectivity"
+  ],
+  "entities": [
+    "change",
+    "final destination",
+    "trip ends",
+    "enter destination bar",
+    "new address"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ea787eff932f4db8ba3"
+  },
+  "question": [
+    "how to turn on night mode in my app",
+    "how do i enable night mode in my app",
+    "can you show me how to turn on night mode in the app",
+    "where can i find the option to activate night mode in my app",
+    "is there a setting to switch to night mode in the app",
+    "how can i adjust the app to use night mode",
+    "can you guide me through the steps to enable night mode in the app",
+    "what s the process for turning on night mode in my app",
+    "where do i go to activate night mode in the app s settings"
+  ],
+  "action": "action_637",
+  "steps": [
+    "1. Tap the menu (three lines) on the top left",
+    "2. Choose account > App settings > Night mode",
+    "3. Select Always off, Always on, or Automatic"
+  ],
+  "requirements": [
+    "Tap the menu (three lines on the top left)",
+    "Choose account",
+    "App settings"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534eaa87eff932f4db8ba4"
+  },
+  "question": [
+    "how can i turn off navigation sounds in uber driver app",
+    "how do i silence the navigation sounds in the uber driver app",
+    "can you help me mute the navigation sounds in the uber driver app",
+    "is there a way to turn off the navigation sounds in the uber driver app",
+    "how can i stop the navigation sounds from playing in the uber driver app",
+    "can you show me how to disable the navigation sounds in the uber driver app",
+    "where do i find the option to quiet the navigation sounds in the uber driver app"
+  ],
+  "action": "action_639",
+  "steps": [
+    "Tap the directions box at the top of your screen",
+    "Tap the speaker icon in the top right corner",
+    "If there is a line through the speaker, it means the sound has been muted"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534eab87eff932f4db8ba5"
+  },
+  "question": [
+    "can i add multiple stops on a trip",
+    "is it possible to add multiple stops during a trip",
+    "can i include several stops along my trip route",
+    "am i able to add more than one stop while on a trip",
+    "is there an option to add multiple destinations during my ride",
+    "can i request to make multiple stops throughout my trip",
+    "are there any features that allow me to add several stops to my trip"
+  ],
+  "action": "action_645",
+  "steps": [
+    "Riders can add up to 2 extra stops on a trip",
+    "Add these additional stops within the app",
+    "Marked by a black square icon on your trip map",
+    "Final stop is marked by a red square icon",
+    "Confirm each stop with a slider at the bottom of the screen",
+    "Sliding the box sets navigation to the next destination on your trip",
+    "Swipe end trip only after all riders have exited their final stop",
+    "Additional distance travelled and time spent waiting will be added to the fare"
+  ],
+  "requirements": [
+    "Within the app",
+    "Riders have exited their vehicle at their final stop"
+  ],
+  "entities": [
+    "riders",
+    "app",
+    "stops",
+    "trip map",
+    "black square icon",
+    "red square",
+    "slider",
+    "confirm stop",
+    "navigation",
+    "fare",
+    "Uber Pool trips"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ead87eff932f4db8ba6"
+  },
+  "question": [
+    "i cannont find my rider  how can i cancel the trip",
+    "how do i cancel a trip if i can t find my rider",
+    "what steps should i take to cancel a trip when i m unable to locate my rider",
+    "is there a way to cancel a trip if i can t find the passenger",
+    "how can i initiate a trip cancellation if i cannot find my rider",
+    "what should i do if i m having trouble locating my rider and need to cancel the trip",
+    "is there a procedure for canceling a trip when i cannot find the passenger"
+  ],
+  "action": "action_653",
+  "steps": [
+    "Confirm trip request",
+    "Use app to cancel on your end",
+    "Tap menu icon in bottom right corner",
+    "Tap three dot icon next to rider's name",
+    "Tap Cancel",
+    "Select cancellation reason"
+  ],
+  "requirements": [
+    "Confirm trip request",
+    "Have access to app"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534eaf87eff932f4db8ba7"
+  },
+  "question": [
+    "why am i not receiving any trip or delivery requests",
+    "what could be the reason for not getting any trip or delivery requests",
+    "how come i m not receiving any trip or delivery requests",
+    "is there a problem if i m not getting any trip or delivery requests",
+    "what should i do if i m not receiving any trip or delivery requests",
+    "are there any steps i can take to troubleshoot why i m not getting any trip or delivery requests",
+    "i m not getting trip or delivery requests  why s that"
+  ],
+  "action": "action_664",
+  "steps": [
+    "Check your data connection",
+    "Confirm that your mobile data is on",
+    "You need a 3G or 4G connection for the app to work properly",
+    "To check, go to your phone settings > Settings > Wireless & networks > Mobile networks > Data enabled",
+    "Head to busy areas",
+    "Look for red or orange dotted points on your map in the app (these indicate high demand/surge areas)",
+    "Click on these points to see the surge pricing",
+    "The app can guide you toward these busy spots",
+    "Stay in your city",
+    "Ensure you're within the city limits for which you are registered to drive",
+    "Adjust your trip preferences",
+    "Make sure you're set to receive all kinds of trips you are qualified to take",
+    "Destination setting (if active, turn it off - this can limit the trip requests you receive)",
+    "Restart your phone (sometimes a simple phone restart can resolve technical issues)",
+    "Update your app (check that you have the most recent version of the Uber Driver app installed)"
+  ],
+  "requirements": [
+    "Confirm that your mobile data is on",
+    "Need a 3G or 4G connection for the app to work properly",
+    "Check your phone settings: Settings > Wireless > Networks > More > Mobile networks > Data enabled",
+    "Stay in your city (ensure you're within the city limits for which you are registered to drive)",
+    "Adjust your trip preferences",
+    "Make sure you're set to receive all kinds of trips you are qualified to take",
+    "Destination setting: if active, turn it off (this can limit the trip requests you receive)",
+    "Restart your phone",
+    "Update your app (check that you have the most recent version of the Uber Driver app installed)"
+  ],
+  "entities": [
+    "Data connection",
+    "Mobile data",
+    "3G",
+    "4G",
+    "Phone settings",
+    "Wireless networks",
+    "More",
+    "Mobile networks",
+    "Data enabled",
+    "Busy areas",
+    "Red or orange dotted points",
+    "Surge pricing",
+    "City limits",
+    "Destination setting",
+    "Trip preferences",
+    "Time of day",
+    "Year"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534eb187eff932f4db8ba8"
+  },
+  "question": [
+    "i want to drive in a new city  but not sure how to do",
+    "how can i start driving in a new city",
+    "what steps do i need to take to begin driving in a different city",
+    "i want to drive in a new city  but i m unsure of the process  can you help",
+    "what do i need to know about driving in a new city",
+    "is there anything specific i should do to start driving in a different city",
+    "can you guide me on how to become a driver in a new city"
+  ],
+  "action": "action_669",
+  "steps": [
+    "Contact support",
+    "Give us a call at the Uber Partner phone support number",
+    "Account review: we'll check your account to ensure it's in good standing and you're eligible for the switch",
+    "Next steps: we'll guide you through any additional requirements or steps to start driving in the new city",
+    "Remember: driving rules and regulations can vary by city; we'll help make sure you're all set to drive and earn in your new location"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    "driver",
+    "city",
+    "Uber",
+    "partner",
+    "phone support number",
+    "account review",
+    "support team"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534eb387eff932f4db8ba9"
+  },
+  "question": [
+    "how do airport pickups work in uber",
+    "what is the process for picking up passengers at airports with uber",
+    "how do airport pickups function within the uber app",
+    "can you explain how uber handles pickups at airports",
+    "what steps are involved in uber s airport pickup service",
+    "how does uber coordinate pickups for passengers arriving at airports",
+    "could you walk me through the procedure for picking up passengers from airports using uber",
+    "how does uber manage pickups from airports",
+    "can you outline the procedures for uber airport pickups",
+    "what s the protocol for picking up passengers from airports with uber",
+    "how are airport pickups different from regular pickups with uber",
+    "what are the specifics of uber s airport pickup process"
+  ],
+  "action": "action_674",
+  "steps": [
+    "Go to Uber.com airports",
+    "Select your region and airport",
+    "On the airport page, scroll down to 'More Information'",
+    "Tap 'Airport Regulations for Drivers' (if you don't see this section, contact support for rules and regulations at your airport)"
+  ],
+  "requirements": [
+    "Access to Uber.com",
+    "Knowledge of how to pick up and drop off riders at airports (general overview)",
+    "Completion of steps 1-4 below",
+    "Step 1: Go to Uber.com/airports",
+    "Step 2: Select your region and airport",
+    "Step 3: Scroll down to 'More information' on the airport page",
+    "Step 4: Tap 'Airport regulations for drivers'",
+    "Alternative: If you don't see the 'Driving with Uber' section, contact support for rules and regulations at your airport"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534eb687eff932f4db8baa"
+  },
+  "question": [
+    "how to request uber at the airport",
+    "what are the steps for requesting an uber at the airport",
+    "how do i go about requesting an uber ride from the airport",
+    "can you explain the process of requesting an uber pickup at the airport",
+    "what do i need to do to request an uber when i m at the airport",
+    "how can i request an uber ride from the airport using the app",
+    "is there a specific way to request an uber pickup when i m at the airport",
+    "how do i ask for an uber from the airport",
+    "what s the easiest way to get an uber at the airport",
+    "can you tell me how to request an uber when i m at the airport",
+    "how can i get an uber from the airport",
+    "what s the process for getting an uber at the airport"
+  ],
+  "action": "action_686",
+  "steps": [
+    "Check ETA for your preferred vehicle 15-30 minutes before you're ready to request pickup",
+    "Allow extra time due to external factors like heavy traffic",
+    "Consider requesting a larger vehicle option if you have many pieces of luggage or additional riders",
+    "Keep in mind that picking up co-riders can reduce space for luggage and increase travel time (if available)",
+    "Collect your luggage from baggage claim and be ready to step outside before requesting a ride",
+    "Some airports have specific waiting areas for riders using Uber; your app will confirm those locations when required by the airport",
+    "After your ride request is accepted, select a terminal location and door where your driver should meet you",
+    "Your driver may call you to confirm your location"
+  ],
+  "requirements": [
+    "Check ETA for preferred vehicle 15-30 minutes before requesting pickup",
+    "Allow extra time for external factors like heavy traffic",
+    "Verify driver's vehicle has room for luggage",
+    "Consider larger vehicle option if traveling with many pieces of luggage or additional riders",
+    "Keep in mind that picking up co-riders can reduce space for luggage and increase travel time",
+    "Collect luggage from baggage claim before requesting a ride",
+    "Be ready to step outside before requesting a ride",
+    "Select terminal location and door for pickup (if required by airport)",
+    "Confirm location with driver after ride request is accepted"
+  ],
+  "entities": [
+    "airports",
+    "Uber",
+    "vehicle",
+    "ETA",
+    "luggage",
+    "driver",
+    "travel time",
+    "terminal location",
+    "door",
+    "app",
+    "baggage claim"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534eb987eff932f4db8bab"
+  },
+  "question": [
+    "can i create different rider profiles in uber app",
+    "is it possible to set up multiple rider profiles in the uber app",
+    "can i create different user profiles within the uber app",
+    "does uber allow users to have multiple rider profiles on one account",
+    "how do i create separate rider profiles in the uber app",
+    "can i customize rider profiles for different users on my uber account",
+    "is there a way to have distinct rider profiles for various users in the uber app"
+  ],
+  "action": "action_700",
+  "steps": [
+    "Create different account profiles within your main rider account",
+    "Choose default email and payment method for each profile",
+    "Select a profile when taking a trip",
+    "Fare will be automatically charged to that profile's default payment method",
+    "Trip receipt will be sent to the profile's default email address"
+  ],
+  "requirements": [
+    "have a main rider account",
+    "choose default email and payment method"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534eba87eff932f4db8bac"
+  },
+  "question": [
+    "can i switch profiles when requesiting a ride",
+    "is it possible to switch profiles while requesting a ride on uber",
+    "can i change profiles when i m about to request a ride on uber",
+    "how do i switch between profiles when i m requesting a ride on uber",
+    "can i select a different profile before requesting a ride with uber",
+    "is there an option to switch profiles during the ride request process on uber",
+    "am i able to change profiles right before i request a ride on uber"
+  ],
+  "action": "action_705",
+  "steps": [
+    "Select your profile by tapping the round icon in the top right corner of your app",
+    "After setting your destination, you can also change your profile by tapping the payment option bar directly above the request button",
+    "To switch a profile during a trip, swipe up on the app's screen",
+    "If a payment method is associated with another profile, tap your profile name and change to the profile you would like to use",
+    "Note: Uber Lite does not support this feature at this time"
+  ],
+  "requirements": [
+    "Tapping the round icon in the top right corner of your app",
+    "Setting your destination",
+    "Swiping up on the app's screen (during a trip)",
+    "Having a payment method associated with another profile (if changing profiles during a trip)",
+    "Using Uber Lite (note: not supported at this time)"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ebc87eff932f4db8bad"
+  },
+  "question": [
+    "can i request more than one vehicle at a time",
+    "is it possible to request multiple vehicles simultaneously on uber",
+    "can i order more than one vehicle at once using the uber app",
+    "does uber allow users to request multiple vehicles at the same time",
+    "how do i request more than one vehicle simultaneously on uber",
+    "can i book multiple rides concurrently through the uber app",
+    "is there a way to order more than one vehicle at a time on uber"
+  ],
+  "action": "action_716",
+  "steps": [
+    "Request one vehicle at a time using your rider account",
+    "Wait for current trip to end before requesting another vehicle",
+    "In many cities, Uber offers larger vehicle options like UberXL and UberSUV that can accommodate 6 or more riders",
+    "If requesting a ride for a large group, contact the driver who accepts your ride request",
+    "Confirm with the driver that the vehicle has enough seats and seat belts for everyone in your group",
+    "If you want to ride in a group too large for a single vehicle, ask others in your group to use their Uber accounts to request additional vehicles"
+  ],
+  "requirements": [
+    "using your rider account",
+    "only request one vehicle at a time",
+    "request another vehicle immediately after a current trip ends",
+    "contact the driver who accepts your ride request",
+    "confirm that the vehicle has enough seats and seat belts for everyone",
+    "ask others in your group to use their Uber accounts to request additional vehicles"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ebe87eff932f4db8bae"
+  },
+  "question": [
+    "can i request a specific driver",
+    "is it possible to request a specific driver on uber",
+    "can i choose a particular driver when requesting a ride on uber",
+    "how do i request a specific driver on the uber app",
+    "is there a way to select a specific driver for my ride on uber",
+    "can i make a request for a particular driver to pick me up on uber",
+    "is it allowed to ask for a specific driver when booking a ride with uber"
+  ],
+  "action": "action_736",
+  "steps": [
+    "1. The app cannot match you with a specific driver",
+    "2. When you request a ride, your app sends your request to nearby drivers",
+    "3. These drivers will pick you up at your pickup location"
+  ],
+  "requirements": [
+    "Have an active ride-hailing account",
+    "Be in a region with available drivers"
+  ],
+  "entities": [
+    "app",
+    "driver"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ec087eff932f4db8baf"
+  },
+  "question": [
+    "can i change my pick up location after requesting a ride",
+    "is it possible to change my pick up location after i ve requested a ride on uber",
+    "can i update my pick up location once i ve already requested a ride",
+    "how do i change my pick up location after i ve already requested a ride through uber",
+    "is there a way to edit my pick up location after i ve already booked a ride",
+    "can i change the pick up address after i ve already requested a ride on uber",
+    "am i able to adjust my pick up location after i ve already made a ride request on uber"
+  ],
+  "action": "action_726",
+  "steps": [
+    "Tap on the pickup location label on the map",
+    "Enter a new address or building",
+    "Choose from one of the locations suggested by the app",
+    "To change your pickup location after you request a ride, tap 'Edit' next to your pickup location",
+    "Type a new address or drag your pin to any location on the map within the grey circle",
+    "Tap the 'Confirm' button to complete your request"
+  ],
+  "requirements": [
+    "Request a ride",
+    "Use GPS for best pickup location suggestion nearby"
+  ],
+  "entities": [
+    "pickup location",
+    "map",
+    "address",
+    "building",
+    "edit",
+    "confirm",
+    "circle"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ec287eff932f4db8bb0"
+  },
+  "question": [
+    "how to request a ride",
+    "how do i ask for an uber ride",
+    "what are the steps to request a ride on uber",
+    "can you guide me through the process of requesting a ride",
+    "how do i use the uber app to request a ride",
+    "what s the procedure for requesting a ride using uber",
+    "can you explain how to request a ride through uber  i am new here"
+  ],
+  "action": "action_734",
+  "steps": [
+    "Enter your destination address in the 'where to' box or tap a shortcut icon at the bottom of your screen (shortcuts include recent destinations from your ride history or custom saved places you can set in your app)",
+    "Your default pickup point is set to your current GPS location. If you are not being picked up at your current location, tap your pickup location on the map and update the address",
+    "Use the slider at the bottom of your screen to toggle between available vehicle options (for example, UberX or UberBlack)",
+    "Tap 'Request'. You may be asked to confirm your pickup location",
+    "Wait for a driver to accept your request. You'll see an estimated time to be matched with an eligible driver. If no drivers are available for the type of ride you've chosen, the app will suggest an alternate ride type with available drivers nearby",
+    "When your request has been accepted, you'll see your driver's location on your map and an estimated time of arrival at your pickup location",
+    "Your app will notify you when your driver is close to your pickup location. The app will also notify you if no drivers are available for your request (in some cities)."
+  ],
+  "requirements": [
+    "Have entered your destination address in the 'where to' box or tapped a shortcut icon at the bottom of your screen",
+    "Set your default pickup point (which is initially set to your current GPS location) if not being picked up at your current location",
+    "Updated the pickup location on the map and confirmed the address if necessary",
+    "Toggled between available vehicle options using the slider at the bottom of your screen",
+    "Tapped 'request' to initiate the ride request"
+  ],
+  "entities": [
+    "destination address",
+    "where to box",
+    "shortcut icon",
+    "recent destinations",
+    "ride history",
+    "custom saved places",
+    "pickup location",
+    "current GPS location",
+    "vehicle options",
+    "UberX",
+    "UberBlack",
+    "request button",
+    "driver",
+    "estimated time of arrival",
+    "app notification",
+    "pickup location notification"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ec487eff932f4db8bb1"
+  },
+  "question": [
+    "can we split a fare with a friend for a ride",
+    "is it possible to split a fare with a friend for a ride on uber",
+    "can i divide the cost of a ride with a friend using uber s fare splitting feature",
+    "how do i split a ride fare with a friend on uber",
+    "is there an option to share the cost of a ride with someone else on uber",
+    "can i request to split the fare for a ride with a friend through the uber app",
+    "is it allowed to divide the fare for a ride between multiple passengers on uber"
+  ],
+  "action": "action_746",
+  "steps": [
+    "Request a ride",
+    "Select split fare at the bottom of your screen",
+    "Enter the names or phone numbers of other riders",
+    "If using the new app: 1. Request a ride, 2. Swipe up from the bottom of the app and tap your selected payment method, 3. Tap split fare",
+    "Enter the names or phone numbers of other riders",
+    "Everyone you invite is sent a notification request to accept your split fare",
+    "Trip fare is then divided equally among riders who accept and you",
+    "Please note that each participating rider is charged a nominal fee to split the fare",
+    "If a rider chooses not to accept split fare or doesn't have a valid payment method, you'll be charged for both your portion and theirs",
+    "Active promotions on your account only apply to your share of the fare",
+    "Split fare is not available for all Uber options, such as UberPool",
+    "Please note that we're unable to split a fare after the trip has ended",
+    "Uber Lite: If you're using Uber Lite, please note that this feature is not supported on the Lite app at this time"
+  ],
+  "requirements": [
+    "1. Request a ride",
+    "2. Select 'Split Fare' at the bottom of your screen",
+    "3. Enter the names or phone numbers of other riders (if using the new app: 1. Request a ride, 2. Swipe up from the bottom of the app and tap your selected payment method, 3. Tap 'Split Fare')",
+    "Everyone you invite is sent a notification request to accept your split fare"
+  ],
+  "entities": [
+    "trip fare",
+    "riders",
+    "names or phone numbers",
+    "payment method",
+    "notification",
+    "fees"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ec587eff932f4db8bb2"
+  },
+  "question": [
+    "i want to submit a privacy inquiry",
+    "how do i submit a privacy inquiry to uber",
+    "what s the process for submitting a privacy inquiry to uber",
+    "can you guide me on how to submit a privacy inquiry to uber",
+    "how can i reach out to uber to inquire about privacy related concerns",
+    "what steps should i take to submit a privacy related question or concern to uber",
+    "is there a specific way to contact uber regarding privacy inquiries"
+  ],
+  "action": "action_750",
+  "steps": [
+    "Use this form to submit requests relating to your personal data",
+    "Contact our Data Protection Officer (DPO)",
+    "Sign in to complete the form if you have an Uber account",
+    "Submit a privacy inquiry through the link below (https://help.uber.com/riders/article/) if you don't have an Uber account"
+  ],
+  "requirements": [
+    "Have an account",
+    "Sign in to complete this form",
+    "Don't have an account",
+    "Submit a privacy inquiry through the link below (https://help.uber.com/riders/article)"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ec787eff932f4db8bb3"
+  },
+  "question": [
+    "i want to request a copy of my personal data",
+    "how can i request a copy of my personal data from uber",
+    "what steps do i need to take to obtain a copy of my personal data from uber",
+    "can you guide me through the process of requesting my personal data from uber",
+    "how do i go about requesting a copy of the personal data that uber has on file for me",
+    "is there a specific procedure for requesting my personal data from uber",
+    "what is the process for submitting a request to uber for a copy of my personal data"
+  ],
+  "action": "action_755",
+  "steps": [
+    "Sign in to your account using 2-step verification for an extra measure of security",
+    "Explore your data view",
+    "Explore an online summary of information about your account, such as number of trips taken and Uber Eats orders",
+    "Download your data with this option (can request a file of your data to download)",
+    "Request a copy of your personal data",
+    "Receive a notification through email or text when we receive your request",
+    "Receive another notification when the file is ready to download"
+  ],
+  "requirements": [
+    "Sign in to your account",
+    "Use 2-step verification for an extra measure of security",
+    null
+  ],
+  "entities": [
+    "sign in",
+    "2 step verification",
+    "request a file of your data"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ec987eff932f4db8bb4"
+  },
+  "question": [
+    "how uber uses rider location information",
+    "how does uber use rider location information",
+    "what purposes does uber have for utilizing rider location data",
+    "can you explain how uber employs the location details provided by riders",
+    "what does uber do with the location information it receives from riders",
+    "how is rider location data utilized by uber",
+    "what are the uses of rider location information within uber s services"
+  ],
+  "action": "action_767",
+  "steps": [
+    "Request prompted by device for permission to share location information when signing up for Uber",
+    "Collect location data via Bluetooth and nearby Wi-Fi signals for best service available",
+    "Default asks to turn on location services while using the app",
+    "Use precise location to find drivers near you",
+    "Help drivers navigate to pickup spot",
+    "Display trip history in receipts",
+    "Understand and resolve support tickets",
+    "Troubleshoot and solve software bugs"
+  ],
+  "requirements": [
+    "Device with Bluetooth capabilities",
+    "Nearby WiFi signals",
+    "Location Services enabled on device"
+  ],
+  "entities": [
+    "Uber",
+    "location information",
+    "Bluetooth",
+    "WiFi signals",
+    "device",
+    "app",
+    "drivers",
+    "pickup spot",
+    "trip history",
+    "receipts",
+    "support tickets",
+    "software bugs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ecc87eff932f4db8bb5"
+  },
+  "question": [
+    "how do wait time fees calculated",
+    "how are wait time fees calculated on uber",
+    "can you explain the process of calculating wait time fees",
+    "what factors determine the amount of wait time fees on uber",
+    "how does uber determine the charges for wait time",
+    "what goes into the calculation of wait time fees on uber",
+    "can you break down the method used to calculate wait time charges",
+    "how does uber figure out wait time fees",
+    "how are wait time charges calculated on uber",
+    "what s the method behind determining wait time fees",
+    "can you explain how uber calculates wait time charges",
+    "how does uber decide the amount for wait time fees",
+    "what s the process for calculating wait time fees on uber"
+  ],
+  "action": "action_784",
+  "steps": [
+    "Wait time fees and thresholds vary by location",
+    "In certain markets, additional wait time charges may apply to your trip depending on how busy it is",
+    "For more details on rates and thresholds, please visit the Uber price estimator",
+    "The wait time fee grace period and the commencement of the no-show window start at the time of a driver's arrival at a pick-up location",
+    "A driver's arrival time is based on technology that uses GPS coordinates, which does not always perfectly correspond to real-world coordinates"
+  ],
+  "requirements": [
+    "Trip is canceled",
+    "Cancellation fee is charged",
+    "Uber price estimator needs to be visited"
+  ],
+  "entities": [
+    "Uber",
+    "trip",
+    "cancellation fee",
+    "wait time",
+    "location",
+    "markets",
+    "rate",
+    "thresholds",
+    "price estimator",
+    "no show window",
+    "GPS coordinates"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ecf87eff932f4db8bb6"
+  },
+  "question": [
+    "why are prices higher than normal",
+    "why are prices higher than usual on uber",
+    "what causes the increase in prices compared to normal rates on uber",
+    "can you explain why prices are elevated beyond the usual on uber",
+    "what factors contribute to prices being higher than usual on uber",
+    "why have prices gone up from their normal rates on uber",
+    "what s the reason for the higher than normal prices on uber"
+  ],
+  "action": "action_789",
+  "steps": [
+    "A lot of people in the same area request rides at the same time",
+    "Trip prices might be higher than normal due to high demand",
+    "The change in price helps attract more drivers to an area",
+    "If requesting a ride during a busy time, see a message in your app",
+    "Wait a few minutes while more drivers get on the road (optional)",
+    "Pay a little extra to get a ride when you need it (optional)"
+  ],
+  "requirements": [],
+  "entities": [
+    "price",
+    "drivers",
+    "area"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ed187eff932f4db8bb7"
+  },
+  "question": [
+    "does uber have recurring charges",
+    "are there any recurring charges associated with using uber",
+    "does uber charge users on a recurring basis for its services",
+    "are there any ongoing fees or subscriptions with uber",
+    "does uber have any regular charges that occur periodically",
+    "do users incur recurring expenses when using uber s services",
+    "are there any monthly or subscription based charges with uber"
+  ],
+  "action": "action_795",
+  "steps": [
+    "Check if there are any monthly or subscription based charges with Uber",
+    "Good news: there are no recurring charges or membership fees for using Uber",
+    "You are only charged for the rides you take"
+  ],
+  "requirements": [
+    "no recurring charges",
+    "no membership fees"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ed387eff932f4db8bb8"
+  },
+  "question": [
+    "what is uber travel  how does it works",
+    "can you explain what uber travel is and how it operates",
+    "what exactly is uber travel  and how does it function",
+    "how does uber travel work  and what does it entail",
+    "could you provide an overview of uber travel and its functionality",
+    "what is uber travel  and what are the mechanics behind it",
+    "what is uber travel and how does it function",
+    "can you explain the concept and operation of uber travel",
+    "how does uber travel work",
+    "could you provide an overview of uber travel and its mechanics",
+    "what are the functionalities of uber travel",
+    "how does uber travel operate and what are its key features"
+  ],
+  "action": "action_806",
+  "steps": [
+    "Sign up for Uber Travel by opening the app, tapping the travel icon, and following prompts to sign in to your email account and connect your Gmail or Microsoft account to your Uber account.",
+    "Uber will only have access to your travel-related emails.",
+    "Once set up, Uber Travel will be able to gather your trip information from your emails.",
+    "You'll be able to see each of your upcoming trips organized into itineraries, with each itinerary showing your flight, hotel, and other travel-related reservations for one of your upcoming trips.",
+    "Where available, you'll also be able to reserve rides between the different legs of your trip.",
+    "If your flight is changed, and you receive an email about the change, your itinerary will be adjusted automatically.",
+    "If you're being picked up from an airport and the airline delays or cancels your flight, Uber will automatically adjust your pickup time or cancel your reservation.",
+    "If you booked an Uber Reserve trip to be dropped off at an airport, you can cancel or rebook your reserve rides at no charge for up to 60 minutes in the Uber app.",
+    "Uber Travel is available in selected countries. If Uber Travel is available in your city, you can find the travel icon in your Uber app."
+  ],
+  "requirements": [
+    "Signing up for Uber Travel",
+    "Opening the app and tapping the travel icon",
+    "Following prompts to sign in to your email account and connect your Gmail or Microsoft account to your Uber account",
+    "Setting up your Uber account so that it can access your travel-related emails",
+    "Having a Google or Microsoft account"
+  ],
+  "entities": [
+    "Uber Travel",
+    "hotel reservations",
+    "flight reservations",
+    "travel-related reservations",
+    "email account",
+    "Gmail account",
+    "Microsoft account",
+    "trip information",
+    "itineraries",
+    "reservations",
+    "ride reservations",
+    "pickup time",
+    "airline delays",
+    "flight cancellations",
+    "airport drop-offs",
+    "Uber app",
+    "selected countries"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ed687eff932f4db8bb9"
+  },
+  "question": [
+    "can i tip on business rides",
+    "can i tip on business rides",
+    "am i allowed to leave a tip for business trips",
+    "is tipping possible for business rides",
+    "can i give a tip on uber for business rides",
+    "are tips accepted for business trips on uber",
+    "can i tip the driver for business rides on uber"
+  ],
+  "action": "action_816",
+  "steps": [
+    "Check with your company's expense policy",
+    "If company covers full cost of trips, any tips to drivers will be charged to company account",
+    "If you were asked to add a second payment method when joining company's business account",
+    "Administrator on the account set rules around spending allowances",
+    "Ride payments will be charged to company account, but tips and ride payments that exceed spending allowance will be charged to your personal payment method"
+  ],
+  "requirements": [
+    "Company covers the full cost of trips",
+    "You were asked to add a second payment method when you joined your company's business account",
+    "The administrator on the account set rules around spending allowances"
+  ],
+  "entities": [
+    "drivers"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ed887eff932f4db8bba"
+  },
+  "question": [
+    "how can i uber for business as an employee",
+    "how do i sign up for uber for business as an employee",
+    "what steps do i take to access uber for business as an employee",
+    "can you guide me through the process of using uber for business as an employee",
+    "how can i enroll in uber for business on behalf of my employer",
+    "what s the procedure for employees to use uber for business",
+    "can you explain how i  as an employee  can utilize uber for business",
+    "how can i get uber for business as an employee",
+    "what s the deal with signing up for uber for business as an employee",
+    "can you walk me through how i can use uber for business as an employee",
+    "so  how do i join uber for business as an employee",
+    "what s the process like for me  as an employee  to access uber for business",
+    "hey  how do i start using uber for business as an employee"
+  ],
+  "action": "action_833",
+  "steps": [
+    "Allowing Uber for Business to work with your existing Uber rider account",
+    "Separate your travel for personal, business or other purposes by selecting the appropriate profile you wish to travel with",
+    "Join a company's Business Account: You'll receive an email invitation by creating an Uber account or signing in to your existing Uber account",
+    "Visit the article below for more details",
+    "Each time you take a trip using your company's Uber for Business account, you might have to",
+    "- Enter an expense code",
+    "- Memo (if the admin set rules for doing so)"
+  ],
+  "requirements": [
+    "Existing Uber rider account",
+    "Email invitation from company's Business Account admin (if joining the company's account)",
+    "Sign-in or create a new Uber account (if not already having one)",
+    "Acceptance of email invitation to join company's Business Account"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534edb87eff932f4db8bbb"
+  },
+  "question": [
+    "how to request a trip on a business profile",
+    "how do i request a ride with my business profile on uber",
+    "what s the deal with booking a trip using a business profile on uber",
+    "can you tell me how to request a ride on uber with my business profile",
+    "so  how do i use my business profile to book a ride on uber",
+    "hey  what s the process for requesting a trip on uber using my business profile",
+    "can you help me figure out how to request a ride on uber with my business profile"
+  ],
+  "action": "action_840",
+  "steps": [
+    "Open the app",
+    "Tap 'Where to' to edit pickup address if needed, and enter your destination address",
+    "Underneath the vehicle type selector, tap the toggle to switch between personal and business profiles",
+    "To select a different business profile (if you have more than one), or different payment method, tap the arrow next to the profile name",
+    "Confirm your pickup location and if prompted, select an expense code",
+    "Request your ride"
+  ],
+  "requirements": [
+    "Joined company's business account",
+    "Opened the app",
+    "Tapped 'where to' to edit pickup address if needed",
+    "Entered destination address",
+    "Switched between personal and business profiles using the toggle",
+    "Selected a different business profile (if multiple)",
+    "Changed payment method (if required)",
+    "Confirmed pickup location",
+    "Selected an expense code (if prompted)"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534edd87eff932f4db8bbc"
+  },
+  "question": [
+    "how to create a business ride profile",
+    "how do i set up a business ride profile on uber",
+    "can you guide me through the process of creating a business ride profile",
+    "what steps do i take to create a business ride profile on uber",
+    "how can i make a business ride profile on uber",
+    "what s the procedure for creating a business ride profile",
+    "can you help me with creating a business ride profile on uber"
+  ],
+  "action": "action_846",
+  "steps": [
+    "Open the Uber app and tap 'Account'",
+    "Tap 'Wallet' then scroll down to 'Ride Profiles'",
+    "Tap 'Start using Uber for Business' or 'Add another Business Profile'",
+    "Follow the prompts to create your business profile",
+    "Optional: Select your company's expense provider to enable automatic receipt forwarding (you'll receive an email to complete the linking process)",
+    "To add an expense provider later, see how to edit a personal or business ride profile",
+    "You must select your business ride profile before or during any ride that you want charged to your business credit card"
+  ],
+  "requirements": [
+    "Open the Uber app",
+    "Tap 'Account'",
+    "Tap 'Wallet'",
+    "Scroll down to 'Ride Profiles'",
+    "Tap 'Start using Uber for Business' or 'Add another Business Profile'",
+    "Follow prompts to create your business profile",
+    "Optional: Select your company's expense provider (to enable automatic receipt forwarding)"
+  ],
+  "entities": [
+    "Uber",
+    "business",
+    "credit card",
+    "work email address",
+    "company account",
+    "expense provider",
+    "personal ride profile",
+    "business ride profile"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534edf87eff932f4db8bbd"
+  },
+  "question": [
+    "can i switch to my business profile during a trip",
+    "is it possible to switch to my business profile while i m on a trip",
+    "can i change to my business profile midway through a trip",
+    "is there a way to switch to my business profile during an ongoing trip",
+    "can i toggle to my business profile while i m already in the middle of a trip",
+    "is it allowed to switch to my business profile during a ride that s already in progress",
+    "can i change to my business profile while i m en route to my destination"
+  ],
+  "action": "action_853",
+  "steps": [
+    "1. Tap 'where to' to edit your pickup location if needed",
+    "2. Enter your destination",
+    "3. Tap the toggle beneath vehicle options to switch between personal and business profiles",
+    "To select a different profile, tap the profile name and select the profile you want to use",
+    "During a trip:",
+    "1. Tap the arrow next to your driver's information",
+    "2. Select 'Change Payment'",
+    "3. Choose whether you want to switch to a business or personal profile",
+    "If you have multiple business profiles, select the one you want the trip charged to",
+    "Your app will default to the profile used for your last ride"
+  ],
+  "requirements": [
+    "Have multiple business profiles",
+    "Have multiple profiles to switch between (personal and business)",
+    "Be on a trip"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ee087eff932f4db8bbe"
+  },
+  "question": [
+    "how to book a ride for someone else",
+    "how do i book a ride for another person on uber",
+    "can you explain how to request a ride for someone else using uber",
+    "what s the process for booking a ride on uber for another person",
+    "how can i arrange a ride for someone else using my uber account",
+    "what steps do i take to request a ride on uber for another individual",
+    "can you guide me through the procedure for booking a ride for someone else on uber",
+    "how can i book a ride for someone else on uber",
+    "what s the way to request a ride for another person using uber",
+    "can you tell me how to arrange a ride for someone else on uber",
+    "so  how do i book a ride for someone else on uber",
+    "hey  what s the process for requesting a ride for another person on uber",
+    "can you help me figure out how to book a ride for someone else on uber"
+  ],
+  "action": "action_857",
+  "steps": [
+    "Tap where to",
+    "Enter your friend's pickup location",
+    "Tap confirm pickup",
+    "Enter your friend's contact details (select their contact information from the contact picker or type in their mobile number)",
+    "Select your friend (make sure they have an arrow on their icon)",
+    "Tap confirm rider",
+    "If you didn't see the option to select someone else, try this instead:",
+    "Tap the where to box",
+    "Tap the dropdown icon next to your name",
+    "Continue through the rest of the steps described above",
+    "Once the trip is accepted, the rider will get text messages from Uber with detailed instructions about the ride"
+  ],
+  "requirements": [
+    "Have an Uber account",
+    "Make sure the friend has an arrow on their icon"
+  ],
+  "entities": [
+    "Uber",
+    "friend",
+    "pickup location",
+    "contact details",
+    "mobile number"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ee387eff932f4db8bbf"
+  },
+  "question": [
+    "i want to contact my driver",
+    "can i contact my driver directly through the uber app",
+    "what s the best way to reach out to my uber driver",
+    "how can i communicate with my driver during my uber trip",
+    "is there a way to contact my driver if i need to communicate with them",
+    "can you tell me how to get in contact with my uber driver"
+  ],
+  "action": "action_868",
+  "steps": [
+    "Tap the bar that displays the driver's info at the bottom of your screen",
+    "Select 'Contact' to choose between calling or messaging your driver",
+    "Note: Drivers may not answer their phones or reply to a text message while driving"
+  ],
+  "requirements": [
+    "Have the Uber app installed",
+    "Be using the app to request a ride"
+  ],
+  "entities": [
+    "Uber",
+    "driver",
+    "app",
+    "pickup location",
+    "screen",
+    "driver's info",
+    "bar",
+    "contact",
+    "phone icon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ee587eff932f4db8bc0"
+  },
+  "question": [
+    "how can i rate a driver",
+    "how do i give a rating to my uber driver",
+    "can you tell me how to rate my uber driver",
+    "what s the process for leaving a rating for my uber driver",
+    "how can i give feedback and rate my uber driver after the trip",
+    "is there a way to rate my uber driver through the app",
+    "hey  can you show me how to rate my uber driver"
+  ],
+  "action": "action_39",
+  "steps": [
+    "Open the app",
+    "On the main screen, tap the white screen to expand trip details",
+    "Tap 'Rate or Tip' next to 'How's your ride going?'",
+    "Select the number of stars (1-5) you want to rate your driver",
+    "Add a tip if you want and select 'Save'"
+  ],
+  "requirements": [
+    "Follow prompts in the app at the end of the trip",
+    "Have an open Uber app",
+    "Be on the main screen (tap the white screen to expand trip details)",
+    "See 'Rate or tip' next to 'How's your ride going?'",
+    "Select the number of stars you want to rate your driver with (1-5)",
+    "Optional: Add a tip if desired and select 'Save'",
+    null
+  ],
+  "entities": [
+    "ratings",
+    "drivers",
+    "app",
+    "trip",
+    "receipt",
+    "location"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ee787eff932f4db8bc1"
+  },
+  "question": [
+    "how can i share my live location with the uber driver",
+    "how do i share my live location with my uber driver",
+    "can you tell me how to send my real time location to my uber driver",
+    "what s the process for sharing my live location with my uber driver",
+    "how can i let my uber driver see my live location during the trip",
+    "is there a way to share my live location with my uber driver through the app",
+    "hey  can you show me how to send my live location to my uber driver",
+    "what s the method for sharing my live location with the uber driver",
+    "how can i send my real time location to my uber driver",
+    "can you guide me on how to share my live location with the uber driver",
+    "is there a way to let my uber driver see my live location as i travel",
+    "how do i enable my uber driver to track my live location during the ride"
+  ],
+  "action": "action_892",
+  "steps": [
+    "Turn location sharing on by using the toggle in the bottom right of the map screen",
+    "Switch the feature on/off using the toggle in the bottom right of the map screen",
+    "Go to Settings",
+    "Tap the menu icon",
+    "Select 'Settings'",
+    "Swipe down and select 'Privacy settings'",
+    "Tap 'Location'",
+    "Select 'Share live location'"
+  ],
+  "requirements": [
+    "Turn on live location sharing",
+    "Toggle the feature on or off in the map screen (bottom right)",
+    "Switch the feature on or off within settings of your app"
+  ],
+  "entities": [
+    "Uber",
+    "driver",
+    "pickup location",
+    "map screen",
+    "app",
+    "settings",
+    "menu icon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534eea87eff932f4db8bc2"
+  },
+  "question": [
+    "how can i share my trip status with someone else",
+    "how do i share my trip status with someone else on uber",
+    "can you tell me how to let someone else know about my trip status on uber",
+    "what s the process for sharing my trip details with another person",
+    "how can i inform someone else about my trip progress on uber",
+    "is there a way to share my trip status with someone else through the uber app",
+    "hey  can you show me how to notify someone else about my trip status on uber"
+  ],
+  "action": "action_897",
+  "steps": [
+    "Request a ride",
+    "Tap or slide up from the bar at the bottom of your screen",
+    "Select 'Share my ETA'",
+    "Enter your destination",
+    "The app will open up a text message for you with the link to share your ETA (Uber Lite users can also share their ETA and trip status by tapping the 'Share status' button)"
+  ],
+  "requirements": [
+    "request a ride",
+    "select 'share my ETA'",
+    "enter your destination"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534eec87eff932f4db8bc3"
+  },
+  "question": [
+    "can i contact my driver with talkback",
+    "is it possible to communicate with my driver using talkback",
+    "can i use talkback to get in touch with my uber driver",
+    "is talkback an option for contacting my uber driver",
+    "can i reach out to my driver through talkback",
+    "is there a way to talk to my uber driver using talkback",
+    "can i use talkback to contact my driver while using uber"
+  ],
+  "action": "action_906",
+  "steps": [
+    "Single tap",
+    "Double tap the round phone icon under your driver's information",
+    "Single tap",
+    "Double tap the phone number or the 'Free Call' button",
+    "Your phone will automatically call your driver according to the option you chose"
+  ],
+  "requirements": [
+    "been matched"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534eee87eff932f4db8bc4"
+  },
+  "question": [
+    "how to request a ride with talkback",
+    "how do i ask for an uber ride using talkback",
+    "what s the deal with requesting a ride on uber with talkback",
+    "can you walk me through how to get an uber ride using talkback",
+    "so  how do i use talkback to book a ride on uber",
+    "hey  is there a way to request an uber ride with talkback",
+    "can you help me figure out how to get an uber ride using talkback"
+  ],
+  "action": "action_908",
+  "steps": [
+    "where to"
+  ],
+  "requirements": [
+    "TalkBack turned on",
+    "Single tap",
+    "Double tap",
+    "Swipe through vehicle options",
+    "Confirm pickup button",
+    "GPS location"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534eef87eff932f4db8bc5"
+  },
+  "question": [
+    "how to upload documents in the uber app with my phone",
+    "how can i upload documents using my phone on the uber app",
+    "what s the process for uploading documents in the uber app from my phone",
+    "can you explain how to submit documents through the uber app using my phone",
+    "how do i upload documents on the uber app using my mobile device",
+    "is there a way to submit documents using my phone on the uber app",
+    "hey  can you guide me on how to upload documents in the uber app with my phone"
+  ],
+  "action": "action_920",
+  "steps": [
+    "Sign into your account at drivers.uber.com",
+    "Open the document upload page in the Uber app",
+    "Select 'Use my phone'",
+    "Choose to either receive a link via text message or scan the QR code with your phone's camera to start the upload process",
+    "The Uber app will then guide you through finishing your document upload",
+    "Double check your documents are accurate before uploading to prevent any delays",
+    "Uber typically reviews uploaded documents within 1-5 days",
+    "Once you've uploaded your documents, you can look forward to starting your driving journey"
+  ],
+  "requirements": [
+    "Sign into your account at drivers.uber.com",
+    "Open the document upload page in the Uber app",
+    "Select 'Use my phone'",
+    "Choose to either receive a link via text message or scan the QR code with your phone's camera to start the upload process"
+  ],
+  "entities": [
+    "drivers.uber.com",
+    "Uber app",
+    "phone",
+    "text message",
+    "QR code",
+    "camera",
+    "document upload page"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ef187eff932f4db8bc6"
+  },
+  "question": [
+    "why am i not receiving weekly promotion offers in my uber driver app",
+    "why aren t weekly promotion offers showing up in my uber driver app",
+    "can you explain why i m not getting weekly promotion offers in my uber driver app",
+    "what could be the reason for the absence of weekly promotion offers in my uber driver app",
+    "how come i m not receiving any weekly promotion offers on my uber driver app",
+    "is there a reason why i m not seeing weekly promotion offers in my uber driver app",
+    "hey  why am i not getting any weekly promotion offers in my uber driver app"
+  ],
+  "action": "action_923",
+  "steps": [
+    "1. Open the driver app",
+    "2. Tap the menu icon or your profile picture to open the main menu",
+    "3. Select 'Opportunities'",
+    "If you don't see any promotions available on a certain day, check back another day as offers are updated each week",
+    "Check the app to see your weekly promotions even if you're unsubscribed",
+    "Contact support to update your city to receive promotion offers"
+  ],
+  "requirements": [
+    "Open the driver app",
+    "Tap the menu icon or profile picture to open the main menu",
+    "Select 'opportunities'",
+    "Wait for weekly promotions updates (if no offers are available)",
+    "Check if you have unsubscribed from Uber communications (and sign back up if necessary)",
+    "Verify that you're signed up to drive in the correct city (contact support if not)"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ef387eff932f4db8bc7"
+  },
+  "question": [
+    "how to review my current promotion details in uber driver app",
+    "how can i check my current promotion details in the uber driver app",
+    "what steps do i take to review my current promotions in the uber driver app",
+    "can you explain how to view my current promotion details in the uber driver app",
+    "how do i check the promotions i currently have in the uber driver app",
+    "is there a way to see my current promotion details within the uber driver app",
+    "hey  can you show me how to review my current promotions in the uber driver app"
+  ],
+  "action": "action_930",
+  "steps": [
+    "Open the driver app",
+    "Tap on the Earnings tab from the menu",
+    "Hit Promotions to see a list",
+    "Select any promotion to view its requirements and your progress"
+  ],
+  "requirements": [
+    "Open the driver app",
+    "Tap on the earnings tab from the menu",
+    "Hit promotions to see a list",
+    "Select any promotion to view its requirements and your progress"
+  ],
+  "entities": [
+    "promotions",
+    "requirements",
+    "progress"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ef587eff932f4db8bc8"
+  },
+  "question": [
+    "how to add new vehicles to my account",
+    "how do i add new vehicles to my uber account",
+    "can you explain the process of adding new vehicles to my account on uber",
+    "what steps should i take to add additional vehicles to my uber account",
+    "how can i include new vehicles on my uber driver account",
+    "is there a way to add more vehicles to my account within the uber app",
+    "hey  can you guide me on how to add new vehicles to my uber account"
+  ],
+  "action": "action_936",
+  "steps": [
+    "Tap the menu button (three lines) in the top left corner of your app",
+    "Tap 'Account' then 'Vehicles'",
+    "Select 'Add a vehicle'",
+    "Complete all required information",
+    "Upload any required documents and photos",
+    "Make sure documents are clear and legible"
+  ],
+  "requirements": [
+    "1. Complete all required information",
+    "2. Upload any required documents and photos",
+    "3. Documents must be clear and legible"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ef787eff932f4db8bc9"
+  },
+  "question": [
+    "can i use other apps or receive personal calls while online",
+    "am i allowed to use other apps or take personal calls while i m online as an uber driver",
+    "can i use other applications or answer personal phone calls while i m online on the uber platform",
+    "is it permissible to use other apps or handle personal calls while i m logged in and available for rides on uber",
+    "am i able to multitask with other apps or receive personal calls while i m active on the uber driver platform",
+    "can i engage with other applications or take personal phone calls while i m online and ready for trips on uber",
+    "hey  can i use other apps or take personal calls while i m available for rides as an uber driver"
+  ],
+  "action": "action_946",
+  "steps": [
+    "Sign in to Uber",
+    "Switch to another app without accepting a trip (if not ready to take trip requests)",
+    "Receive notifications every 3 minutes to remind you to go offline if not ready",
+    "Go offline at any time by opening the Uber app and tapping the button (to stop receiving trip requests)",
+    "Use other apps or make phone calls while available for rides",
+    "Open the Uber app and tap the button to go online when ready to take trip requests again",
+    "Always follow local laws about mobile phone use while driving (for safety)",
+    "Avoid phone conversations while driving (to avoid distractions and increase risk of accidents)"
+  ],
+  "requirements": [
+    "be signed in to Uber",
+    "not have accepted a trip yet"
+  ],
+  "entities": [
+    "apps",
+    "phone calls"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534ef987eff932f4db8bca"
+  },
+  "question": [
+    "i am unable to contact riders",
+    "i cannot contact riders  pls help me",
+    "what can i do if i m unable to contact riders before picking them up",
+    "i m having issues reaching out to riders  any suggestions",
+    "i am having difficulty contacting riders"
+  ],
+  "action": "action_949",
+  "steps": [
+    "Use your current mobile number (not a home number)",
+    "Make sure your number is public (not private or blocked)",
+    "Avoid using Google Voice numbers; update phone number",
+    "Tap the 3 lines in the left-hand corner or your photo in the top-right corner",
+    "Tap Account, then tap Edit Account",
+    "Select Details to change and enter updated information",
+    "Enter verification code or current password to confirm changes",
+    "Disable Do Not Disturb mode; check phone settings and turn it off",
+    "Riders will not go straight to voicemail"
+  ],
+  "requirements": [
+    "Use your current mobile number (not home number)",
+    "Make sure your number is public (not private or blocked)",
+    "Avoid using Google Voice numbers",
+    "Ensure your phone number is not blocked",
+    "Disable Do Not Disturb mode in your phone settings"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534efa87eff932f4db8bcb"
+  },
+  "question": [
+    "why the app shows  unable to determine my location",
+    "why does the app display  unable to determine my location",
+    "what could be the reason for the app showing  unable to determine my location",
+    "why am i seeing the message  unable to determine my location  in the app",
+    "what causes the app to be unable to determine my location",
+    "why am i encountering the issue of the app not determining my location",
+    "hey  what s going on if the app says  unable to determine my location"
+  ],
+  "action": "action_959",
+  "steps": [
+    "Ensure your location services are active",
+    "For Android 12 and newer: Swipe down from the top of your screen to open the quick settings, Press and hold Location, If the location is missing, Tap on Edit or Settings, Move Location to your Quick Settings, Tap on Location Services and then on Google Location Accuracy, Turn on Improve Location Accuracy",
+    "For Android 11 and older: Swipe down from the top of your screen to open the quick settings, Press and hold Location, If the location is missing, Tap on Edit or Settings, Move Location to your Quick Settings, Tap on Advanced and select Google Location Accuracy, Turn on Improve Location Accuracy",
+    "Keep the Uber app updated",
+    "Open the Google Play Store, Tap your profile icon at the top, Select Manage apps & device, Tap Update to refresh your apps"
+  ],
+  "requirements": [
+    "Ensure your location services are active",
+    "Keep the Uber app updated"
+  ],
+  "entities": [
+    "location services",
+    "Google Location Accuracy",
+    "Quick Settings",
+    "Location",
+    "Uber App",
+    "Google Play Store"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534efc87eff932f4db8bcc"
+  },
+  "question": [
+    "what ios version do i need to accept trips",
+    "what ios version is required to accept trips on the uber app",
+    "can you tell me the minimum ios version needed to accept trips in the uber app",
+    "what s the ios version requirement for accepting trips on uber",
+    "is there a specific ios version i need to have to accept trips using the uber app",
+    "hey  what ios version do i need in order to be able to accept trips on uber",
+    "can you let me know the ios version necessary for accepting trips on the uber app"
+  ],
+  "action": "action_963",
+  "steps": [
+    "Open your device's settings",
+    "Tap 'General'",
+    "Then, 'Software Update'",
+    "Choose 'Download and Install'"
+  ],
+  "requirements": [
+    "Device has iOS 14.8 or later"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534efe87eff932f4db8bcd"
+  },
+  "question": [
+    "how to download the uber driver app on ios",
+    "how do i download the uber driver app on ios",
+    "can you guide me through the process of downloading the uber driver app on ios",
+    "what steps should i take to download the uber driver app on my ios device",
+    "how can i get the uber driver app on my iphone or ipad",
+    "is there a specific method for downloading the uber driver app on ios",
+    "hey  can you show me how to download the uber driver app on my ios device",
+    "how can i get the uber driver app on my iphone",
+    "what s the easiest way to download the uber driver app on ios",
+    "can you help me with downloading the uber driver app on my iphone",
+    "how do i install the uber driver app on my ios device",
+    "hey  what s the process for getting the uber driver app on my iphone"
+  ],
+  "action": "action_970",
+  "steps": [
+    "Make sure you're using an iPhone with iOS 15 or higher",
+    "Tap 'Download' the Driver App from your personal device to install",
+    "If the app isn't downloading, try connecting to a Wi-Fi network before downloading",
+    "Ensure you have sufficient data allowance if you're not on Wi-Fi",
+    "Remember to keep your iPhone's software up to date to ensure the best performance of the Uber Driver App"
+  ],
+  "requirements": [
+    "Using an iPhone with iOS 15 or higher",
+    "Downloading the driver app from your personal device",
+    "Ensuring you have sufficient data allowance if not connected to Wi-Fi",
+    "Connecting to a Wi-Fi network before downloading (if needed)",
+    "Keeping your iPhone's software up to date"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f0187eff932f4db8bce"
+  },
+  "question": [
+    "my uber app crashes on my ios device  how to fix",
+    "what should i do if my uber app keeps crashing on my ios device",
+    "can you help me troubleshoot why my uber app is crashing on my iphone",
+    "how can i fix the issue of my uber app crashing on my ios device",
+    "my uber app keeps crashing on ios  what can i do",
+    "hey  how can i get my uber app to stop crashing on my iphone",
+    "is there an easy fix for my uber app crashing on my ios device"
+  ],
+  "action": "action_984",
+  "steps": [
+    "Swipe up from the bottom of your screen",
+    "Hold briefly in the middle",
+    "Find the Uber app by swiping right or left",
+    "To close the app, swipe up on its preview",
+    "Restart the app to see if the issue is resolved",
+    "Quickly press the home button twice",
+    "Find the Uber app to close it by swiping its card up",
+    "Try opening the app again",
+    "Reset your network settings (this will erase all saved network passwords)",
+    "To reset, go to Settings",
+    "Tap on General",
+    "Choose Transfer or Reset iPhone",
+    "Select Reset",
+    "Hit Reset Network Settings"
+  ],
+  "requirements": [
+    "iPhone X or later",
+    "Network settings reset (will erase all saved network passwords)"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f0287eff932f4db8bcf"
+  },
+  "question": [
+    "how to changing my account details in uber driver app",
+    "how can i update my account details in the uber driver app",
+    "what steps should i take to change my account information in the uber driver app",
+    "can you guide me through the process of editing my account details on the uber driver app",
+    "how do i go about updating my account information within the uber driver app",
+    "is there a way to change my account details directly from the uber driver app",
+    "hey  can you show me how to modify my account details in the uber driver app"
+  ],
+  "action": "action_988",
+  "steps": [
+    "Tap the menu icon (three horizontal lines) in the top left corner of the app",
+    "Select 'Account' from the menu",
+    "Choose 'Edit account'",
+    "Tap the detail you need to update and enter the new information",
+    "When you're done, you'll need to verify the change"
+  ],
+  "requirements": [
+    "Have the Uber driver app installed",
+    "Be logged in to the app"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f0487eff932f4db8bd0"
+  },
+  "question": [
+    "how can i reset password in uber driver app",
+    "how do i reset my password in the uber driver app",
+    "can you guide me through the process of resetting my password on the uber driver app",
+    "what steps should i take to change my password in the uber driver app",
+    "is there a way to reset my password directly from the uber driver app",
+    "hey  how can i update my password in the uber driver app if i forgot it",
+    "can you show me how to reset my password on the uber driver app"
+  ],
+  "action": "action_1001",
+  "steps": [
+    "Click here and enter the phone number or email address linked to your Uber account",
+    "Click 'Continue'",
+    "We'll send you an email or SMS based on your chosen verification method containing a one-time password (OTP) for authentication",
+    "Enter the OTP received and click 'Next'",
+    "Create a new password and click 'Update'",
+    "You will see a 'Login success' message"
+  ],
+  "requirements": [
+    "phone number or email address linked to Uber account",
+    "OTP verification method (email or SMS)"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f0687eff932f4db8bd1"
+  },
+  "question": [
+    "i cannot remember my passowrd  what can i do",
+    "what should i do if i forgot my password",
+    "how can i reset my password if i can t remember it",
+    "i ve forgotten my password  what steps should i take",
+    "hey  what do i do if i can t recall my password",
+    "what s the procedure for resetting my password if it slipped my mind",
+    "can you help me out  i can t seem to remember my password"
+  ],
+  "action": "action_1008",
+  "steps": [
+    "Contact the hotline",
+    "Explain the issue (forgetting password)"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f0887eff932f4db8bd2"
+  },
+  "question": [
+    "i want to change my delivery address in uber app",
+    "how can i change my delivery address on uber",
+    "what s the easiest way to update my delivery address in the uber app",
+    "can you help me with changing my delivery address on uber",
+    "hey  how do i switch my delivery address in the uber app",
+    "what s the quick way to update my delivery address on uber",
+    "how do i update my delivery address in the uber app"
+  ],
+  "action": "action_1012",
+  "steps": [
+    "Contact your delivery person directly to let them know if the delivery address on your order is incorrect",
+    "As soon as your order is assigned to a delivery person, use your app to contact them",
+    "Tap 'contact' in the order tracking screen's map",
+    "Choose between a call or message to contact them",
+    "If speaking with the delivery person, be sure to give them clear instructions",
+    "Keep your phone close by and with the sound on to avoid additional delivery delays"
+  ],
+  "requirements": [
+    "Order assigned to delivery person",
+    "Have access to app"
+  ],
+  "entities": [
+    "delivery address",
+    "order tracking screen",
+    "map",
+    "contact",
+    "phone"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f0a87eff932f4db8bd3"
+  },
+  "question": [
+    "how can i check the status of my order",
+    "how do i see the status of my order",
+    "can you show me how to check my order status",
+    "what s the process for checking the status of my order",
+    "is there a way to see the status of my order",
+    "hey  how can i find out the status of my order"
+  ],
+  "action": "action_1021",
+  "steps": [
+    "Open the Uber Eats app",
+    "Tap 'Account' then 'Orders'",
+    "Select your current order",
+    "Tap 'Track' to view the status",
+    "Look for the description to understand its status",
+    "A delivery person is selected and a map appears showing their location",
+    "Track your delivery person's progress as they make their way to you"
+  ],
+  "requirements": [
+    "open the Uber Eats app",
+    "tap on account",
+    "then orders",
+    "select your current order"
+  ],
+  "entities": [
+    "Uber Eats app",
+    "account",
+    "orders",
+    "current order",
+    "track",
+    "map",
+    "delivery person",
+    "progress"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f0b87eff932f4db8bd4"
+  },
+  "question": [
+    "my order took longer than expected  i am not happy with the service",
+    "my order is taking longer than expected  and i m not satisfied with the service",
+    "i m unhappy because my order is taking longer than it should  and the service isn t meeting my expectations",
+    "i m dissatisfied with the service because my order is taking much longer than anticipated",
+    "the service is not meeting my expectations because my order is significantly delayed",
+    "hey  i m not happy with the service because my order is taking longer than i was told"
+  ],
+  "action": "action_1028",
+  "steps": [
+    "Check your delivery person's ETA (estimated time of arrival) in the app",
+    "Contact the delivery person directly for details if the order is taking longer than expected"
+  ],
+  "requirements": [
+    "unexpected traffic",
+    "bad weather conditions"
+  ],
+  "entities": [
+    "inconvenience",
+    "delays",
+    "unexpected traffic",
+    "bad weather conditions"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f0d87eff932f4db8bd5"
+  },
+  "question": [
+    "why did my order total increase",
+    "why did the total amount of my order change",
+    "it shows higher price for my order  no idea what is it  can you help me"
+  ],
+  "action": "action_1029",
+  "steps": [
+    "Visit the order tracking page",
+    "Tap 'View Receipt'",
+    "Find the line 'Price Adjustments' to view the exact price changes to your order total"
+  ],
+  "requirements": [
+    "Visit the Order Tracking page",
+    "Tap View Receipt",
+    "Find the line 'Price Adjustments'"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f0e87eff932f4db8bd6"
+  },
+  "question": [
+    "can i change items in my order after placing the order",
+    "is it possible to change items in my order after i ve already placed it",
+    "can i make changes to the items in my order once it s been placed",
+    "hey  can i adjust the items in my order even after i ve placed the order",
+    "what should i do if i want to change the items in my order after it s been placed",
+    "i want to change items in my order after placing it  can you help me"
+  ],
+  "action": "action_1033",
+  "steps": [
+    "Try to contact the restaurant to see if they can process your request",
+    "Check if the order has already been picked up by the delivery partner",
+    "Reach out to our support team on 01173444200 for any clarifications"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    "order",
+    "restaurant",
+    "support team"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f1087eff932f4db8bd7"
+  },
+  "question": [
+    "i want to cancel my order",
+    "i d like to cancel my order  please",
+    "can you help me cancel my order",
+    "how do i go about cancelling my order",
+    "is there a way to cancel my order",
+    "hey  can i cancel my order"
+  ],
+  "action": "action_1043",
+  "steps": [
+    "Go to the order tracking page of the Uber Eats app",
+    "Tap 'Cancel Order'",
+    "Check if the order has been accepted by the restaurant (if not, proceed with cancellation)",
+    "If the order has already been accepted, reach out to the support team and they'll contact the restaurant",
+    "Note that you might be charged for the order"
+  ],
+  "requirements": [
+    "the order has not been accepted by the restaurant",
+    "have access to the Uber Eats app",
+    "be able to navigate to the order tracking page"
+  ],
+  "entities": [
+    "order",
+    "restaurant",
+    "Uber Eats app",
+    "order tracking page"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f1187eff932f4db8bd8"
+  },
+  "question": [
+    "i have wrong items in my order",
+    "some itmes are missed in my order",
+    "there are incorrect items in my order",
+    "i received the wrong items in my order",
+    "my order contains items that i didn t request",
+    "hey  i got the wrong items in my order"
+  ],
+  "action": "action_1046",
+  "steps": [
+    "Let us know here",
+    "Be sure to advise of the exact missing or incorrect items in your order",
+    "Include an image of the order you received",
+    "Note that we will not be able to replace the order, but you may be eligible for a refund"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f1387eff932f4db8bd9"
+  },
+  "question": [
+    "i m not satisfied with my order   i need a refund",
+    "i m unsatisfied with my order and would like a refund",
+    "can i get a refund for my order  i m not satisfied with it",
+    "i need a refund cz i m not happy with my order",
+    "hey  i m not satisfied with my order  can i get a refund"
+  ],
+  "action": "action_1050",
+  "steps": [
+    "Give direct feedback to the restaurant by rating them on the Uber Eats app",
+    "Check if portion size was smaller than expected",
+    "If not satisfied with taste or preparation of food",
+    "Check if food was too hot or too cold",
+    "Tap 'Orders' at the bottom of your app (looks like a small receipt)",
+    "Tap 'Rate Order' next to the delivery confirmation",
+    "If you have other issues with food quality or received a damaged order, share details about what was wrong",
+    "A photo of the affected item is also required"
+  ],
+  "requirements": [
+    "The portion size was smaller than expected",
+    "The taste or preparation of the food",
+    "The food was too hot or too cold",
+    "You have other issues with the food quality",
+    "You received a damaged order"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f1487eff932f4db8bda"
+  },
+  "question": [
+    "my card was charged more than once for the recent order  pls help me",
+    "my card was charged multiple times for my recent order  can you please assist me",
+    "i ve noticed that my card was charged more than once for my recent order  could you help me resolve this issue",
+    "hey  i have a problem with my recent order  my card was charged multiple times  can you help me sort it out",
+    "i m facing an issue with my recent order  my card was charged multiple times  and i need assistance resolving it",
+    "can you please help me  my card was charged more than once for my recent order  and i m unsure how to handle it"
+  ],
+  "action": "action_1056",
+  "steps": [
+    "Check if the extra charge on your account is an authorization hold",
+    "Understand that this temporary hold is issued when you place an order to protect against fraud from unauthorized card usage",
+    "Note that these holds are never actually charged to your account",
+    "Wait for the bank's policies to process and clear the hold (which may take a short while)",
+    "If still unsure, contact customer support or bank for assistance"
+  ],
+  "requirements": [
+    "authorization hold",
+    "temporary holds for the total of your order",
+    "no unauthorized card usage",
+    "immediate voiding of the hold"
+  ],
+  "entities": [
+    "account",
+    "charge",
+    "order",
+    "fraud",
+    "card",
+    "bank"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f1687eff932f4db8bdb"
+  },
+  "question": [
+    "my last order didn t arrive  what can i do",
+    "my last order never arrived  what should i do next",
+    "i placed an order  but it didn t arrive  what steps should i take to address this",
+    "hey  my last order never showed up  what can i do about it",
+    "i m having an issue with my recent order it never arrived  how can i resolve this",
+    "can you assist me  my most recent order didn t make it to me  and i m unsure what to do next"
+  ],
+  "action": "action_1061",
+  "steps": [
+    "1. Tap the receipt icon on the bottom menu bar",
+    "2. Locate the order you'd like to rate",
+    "3. Tap 'Rate Order'",
+    "4. Rate the delivery person, restaurant, and specific food you ordered",
+    "If your issue isn't resolved by checking the points above, please report your experience here so we can review it further"
+  ],
+  "requirements": [
+    "Poor experience with delivery",
+    "Order was not delivered to door or was late",
+    "Uber Eats app is available and accessible",
+    "Receipt icon is present on bottom menu bar",
+    "Specific order to rate is located in the app",
+    "Internet connection for reporting feedback"
+  ],
+  "entities": [
+    "Uber Eats app",
+    "receipt icon",
+    "bottom menu bar",
+    "rate order",
+    "delivery person",
+    "restaurant",
+    "specific food"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f1887eff932f4db8bdc"
+  },
+  "question": [
+    "my food was not cooked properly  not happy with the service",
+    "my food wasn t cooked properly  what should i do about it",
+    "i received food that wasn t cooked properly  how can i address this issue",
+    "hey  my food didn t come out cooked right  what s the next step",
+    "i m not happy with my food it wasn t cooked properly  what can be done to fix this"
+  ],
+  "action": "action_1068",
+  "steps": [
+    "Rate your order and restaurant in the Uber Eats app",
+    "Leave feedback or comments to help improve future experiences",
+    "Share details of the issue (if food was stale, burnt, undercooked, etc.) so we can help",
+    "We review your feedback and share it with the restaurant partner to prevent similar issues in the future"
+  ],
+  "requirements": [
+    "rate your order in the Uber Eats app",
+    "leave feedback or comments about your experience",
+    "provide details about the issue (e.g., food was stale, burnt, undercooked)"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f1987eff932f4db8bdd"
+  },
+  "question": [
+    "i didn t receive the refund for my last order  it s been 5 days now",
+    "i haven t received a refund for my last order  what can i do to resolve this",
+    "hey  i was supposed to get a refund for my last order  but it hasn t come through  can you help me with this",
+    "my last order was refunded  but i haven t seen the refund yet  what should i do",
+    "i m still waiting on the refund for my last order  can you provide assistance with this",
+    "can you help me track down the refund for my last order  it hasn t shown up yet"
+  ],
+  "action": "action_1077",
+  "steps": [
+    "Check reasons for refund delay: authorization holds",
+    "Wait up to 10 business days for authorization hold to drop",
+    "Get in touch with bank directly if issues arise",
+    "Note that refunds may take about 7-10 days to be reflected in bank account",
+    "Contact bank after 10 business days if refund hasn't been received",
+    "Track the status of the refund with bank",
+    null
+  ],
+  "requirements": [
+    "Authorization holds (like many companies)"
+  ],
+  "entities": [
+    "refund",
+    "order",
+    "bank",
+    "authorization hold",
+    "payment methods",
+    "Uber"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f1b87eff932f4db8bde"
+  },
+  "question": [
+    "hi we want to place a group order in uber eats   can u pls help",
+    "we re thinking of doing a group order on uber eats  can you help us out",
+    "hey there  can you help us with a group order on uber eats",
+    "hi  we re planning a group order on uber eats  can you lend a hand",
+    "hey  thinking of doing a group order on uber eats  need some help",
+    "hi  we want to place a group order on uber eats  can you give us a hand",
+    "is it possible to place grup orders"
+  ],
+  "action": "action_1080",
+  "steps": [
+    "Sign in to the Uber Eats app or visit ubereats.com",
+    "Pick a merchant you want to order from",
+    "Select 'Group Order' in the app or 'Start Group Order' on ubereats.com",
+    "Edit the details of the group order if you'd like (e.g. delivery address, set a routine, optional deadline for everyone to select their items, or an optional spending limit)",
+    "Choose to pay for everyone or split the bill",
+    "If you set a routine for the order, edit the frequency, delivery days, and routine start and end dates",
+    "Select 'Share a link' to receive a link to send to everyone in your group",
+    "Add your own items",
+    "Once everyone else has added their items, select 'View Order' and go to checkout",
+    "If the group order is ready, select 'Lock Order' to continue (guests can't edit or add more items) or select 'Go Back'",
+    "Review the delivery details again and click 'Next'",
+    "Select 'Place Group Order'",
+    null
+  ],
+  "requirements": [
+    "Sign in to the Uber Eats app or visit ubereats.com",
+    "Pick a merchant you want to order from",
+    "Select 'Group Order' in the app or 'Start Group Order' on ubereats.com"
+  ],
+  "entities": [
+    "Group order",
+    "Uber Eats app",
+    "Merchant",
+    "Delivery address",
+    "Routine",
+    "Optional deadline",
+    "Spending limit",
+    "Link",
+    "Checkout"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f1d87eff932f4db8bdf"
+  },
+  "question": [
+    "can we use uber for gify delivery",
+    "can uber be used for gift delivery",
+    "is it possible to use uber for sending gifts",
+    "can i use uber to deliver gifts to someone",
+    "hey  does uber offer gift delivery services"
+  ],
+  "action": "action_1085",
+  "steps": [
+    "Check if Uber offers gift delivery services",
+    "Realize that gift deliveries are actually Uber Eats orders",
+    "Identify who you want to send the gift to (friends, family, essential workers)",
+    "Determine the occasion for sending the gift (holidays, thank you, congratulations)",
+    "Add a personal note to the gift (optional)",
+    "Track the delivery in the Uber Eats app",
+    "Find the 'Gift Delivery' option at the checkout screen before placing the order"
+  ],
+  "requirements": [
+    "have an Uber Eats account",
+    "be logged in to the Uber Eats app",
+    "have a friend, family member, or essential worker you want to send a gift to",
+    "have access to the checkout screen on the Uber Eats app"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f1e87eff932f4db8be0"
+  },
+  "question": [
+    "how do i track my gift delivery order",
+    "how can i track my gift delivery order",
+    "is there a way for me to track my gift delivery order in real time",
+    "can you show me how to keep track of my gift delivery order"
+  ],
+  "action": "action_1093",
+  "steps": [
+    "Tap 'Orders' on the bottom menu bar",
+    "Select 'Past Orders' to find and track your gift delivery order"
+  ],
+  "requirements": [
+    "Uber Eats app installed",
+    "Internet connection available"
+  ],
+  "entities": [
+    "Uber Eats",
+    "app",
+    "orders",
+    "menu bar",
+    "past orders"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f1f87eff932f4db8be1"
+  },
+  "question": [
+    "how do i know my gift delivery order been delivered",
+    "how do i check if the gift has been delivered",
+    "how can i know if the gift has arrived",
+    "hey  how do i find out if the gift has been delivered",
+    "is there a way to see if the gift has reached its destination",
+    "can you help me see if the gift has been delivered yet",
+    "how do i confirm if the gift has been delivered to the recipient"
+  ],
+  "action": "action_1096",
+  "steps": [
+    "Track the gift delivery status in the orders section of the Uber Eats app",
+    "Get a notification once the gift has been delivered"
+  ],
+  "requirements": [
+    "access to the Uber Eats app",
+    "orders section in the Uber Eats app"
+  ],
+  "entities": [
+    null
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f2187eff932f4db8be2"
+  },
+  "question": [
+    "how do i create an uber eats account",
+    "how can i sign up for an uber eats account",
+    "how do i make an uber eats account",
+    "hey  what s the process for signing up on uber eats",
+    "can you show me how to create an uber eats account",
+    "how do i get started with uber eats"
+  ],
+  "action": "action_1104",
+  "steps": [
+    "Sign up and create an account using your browser or by downloading the Uber Eats app",
+    "Download the Uber Eats app from the Google Store or Apple Store (if needed)",
+    "Create a valid email address and mobile number",
+    "Create a password",
+    "Agree to the terms and conditions and our privacy notice",
+    "Fill in your first and last name and preferred language",
+    "Verify your phone number by receiving a text SMS",
+    "If your mobile number or email address is already used, go to the article below"
+  ],
+  "requirements": [
+    "Sign up and create an account using your browser or by downloading the Uber Eats app",
+    "Valid email address",
+    "Mobile number",
+    "Create a password",
+    "Agree to terms and conditions and privacy notice",
+    "Fill in first and last name and preferred language"
+  ],
+  "entities": [
+    "Uber Eats",
+    "browser",
+    "app",
+    "Google Store",
+    "Apple Store",
+    "email address",
+    "mobile number",
+    "password",
+    "terms and conditions",
+    "privacy notice",
+    "first name",
+    "last name",
+    "preferred language"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66534f2387eff932f4db8be3"
+  },
+  "question": [
+    "what can i send using uber connect",
+    "what is uber conect",
+    "do you know what is uber connect",
+    "hey  what can i send using uber connect",
+    "can you tell me what i m allowed to send with uber connect",
+    "what items are okay to send through uber connect"
+  ],
+  "action": "action_1108",
+  "steps": [
+    "Small or medium packages",
+    "Packages within local weight limits",
+    "Items that fit comfortably in the trunk of a mid-size vehicle",
+    "Closed and securely sealed packages",
+    "Packages ready for curbside pickup (by bike or scooter)"
+  ],
+  "requirements": [
+    null
+  ],
+  "entities": [
+    null
+  ]
+}]
